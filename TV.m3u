@@ -1,0 +1,1101 @@
+#EXTM3U url-tvg="https://i.mjh.nz/SamsungTVPlus/fr.xml.gz,https://i.mjh.nz/PlutoTV/fr.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN_FR1.xml.gz,https://xmltvfr.fr/xmltv/xmltv.xml.gz,https://i.mjh.nz/PlutoTV/all.xml,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
+#EXTINF:-1 tvg-name="PFL MMA" tvg-id="654a620d53fc9700083b2e21" tvg-logo="https://images.pluto.tv/channels/654a620d53fc9700083b2e21/colorLogoPNG.png" tvg-chno="30" group-title="Nouveau sur Pluto TV", PFL MMA
+https://r.mjh.nz/PlutoTV/654a620d53fc9700083b2e21-alt.m3u8
+
+#EXTINF:-1 tvg-name="Alerte Cobra" tvg-id="62f3e4bc08f5ec000744f552" tvg-logo="https://images.pluto.tv/channels/62f3e4bc08f5ec000744f552/colorLogoPNG.png" tvg-chno="50" group-title="Séries Internationales", Alerte Cobra
+https://r.mjh.nz/PlutoTV/62f3e4bc08f5ec000744f552-alt.m3u8
+
+#EXTINF:-1 tvg-name="Walker Texas Ranger" tvg-id="60afa749ac7f3200078adb40" tvg-logo="https://images.pluto.tv/channels/60afa749ac7f3200078adb40/colorLogoPNG.png" tvg-chno="55" group-title="Séries Internationales", Walker Texas Ranger
+https://r.mjh.nz/PlutoTV/60afa749ac7f3200078adb40-alt.m3u8
+
+#EXTINF:-1 tvg-name="MacGyver" tvg-id="6245ccd0c6cdb800074632e4" tvg-logo="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/colorLogoPNG.png" tvg-chno="60" group-title="Séries Internationales", MacGyver
+https://r.mjh.nz/PlutoTV/6245ccd0c6cdb800074632e4-alt.m3u8
+
+#EXTINF:-1 tvg-name="Doctor Who" tvg-id="60d359c98f262f00070c364e" tvg-logo="https://images.pluto.tv/channels/60d359c98f262f00070c364e/colorLogoPNG.png" tvg-chno="70" group-title="Séries Internationales", Doctor Who
+https://r.mjh.nz/PlutoTV/60d359c98f262f00070c364e-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Polar" tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-logo="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/colorLogoPNG.png" tvg-chno="80" group-title="Séries Internationales", Pluto TV Polar
+https://r.mjh.nz/PlutoTV/5f8ed4dbf6bb0800071ffbcb-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Series" tvg-id="5f8ed2d1c34c2300073bf02c" tvg-logo="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/colorLogoPNG.png" tvg-chno="85" group-title="Séries Internationales", Pluto TV Series
+https://r.mjh.nz/PlutoTV/5f8ed2d1c34c2300073bf02c-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Telenovela" tvg-id="5f914f9dccb4de0007df8bc4" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" tvg-chno="90" group-title="Séries Internationales", Pluto TV Telenovela
+https://r.mjh.nz/PlutoTV/5f914f9dccb4de0007df8bc4-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Séries Fantastiques" tvg-id="625ec7a1c853fd00073b38fd" tvg-logo="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/colorLogoPNG.png" tvg-chno="95" group-title="Séries Internationales", Pluto TV Séries Fantastiques
+https://r.mjh.nz/PlutoTV/625ec7a1c853fd00073b38fd-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV TEEN SERIES" tvg-id="5f8eb7e3d2ed18000746d09a" tvg-logo="https://images.pluto.tv/channels/5f8eb7e3d2ed18000746d09a/colorLogoPNG.png" tvg-chno="100" group-title="Séries Internationales", Pluto TV TEEN SERIES
+https://r.mjh.nz/PlutoTV/5f8eb7e3d2ed18000746d09a-alt.m3u8
+
+#EXTINF:-1 tvg-name="Melrose Place" tvg-id="6245ceece1977a00079e2fbd" tvg-logo="https://images.pluto.tv/channels/6245ceece1977a00079e2fbd/colorLogoPNG.png" tvg-chno="105" group-title="Séries Internationales", Melrose Place
+https://r.mjh.nz/PlutoTV/6245ceece1977a00079e2fbd-alt.m3u8
+
+#EXTINF:-1 tvg-name="Amour, Gloire et Beauté" tvg-id="61533b6334ba9b000763d7b1" tvg-logo="https://images.pluto.tv/channels/61533b6334ba9b000763d7b1/colorLogoPNG.png" tvg-chno="110" group-title="Séries Internationales", Amour, Gloire et Beauté
+https://r.mjh.nz/PlutoTV/61533b6334ba9b000763d7b1-alt.m3u8
+
+#EXTINF:-1 tvg-name="BBC Drama" tvg-id="60d35a74c63c3c0008df6a90" tvg-logo="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/colorLogoPNG.png" tvg-chno="115" group-title="Séries Internationales", BBC Drama
+https://r.mjh.nz/PlutoTV/60d35a74c63c3c0008df6a90-alt.m3u8
+
+#EXTINF:-1 tvg-name="Un gars, une fille" tvg-id="62f3ece7b09fd6000783bfb9" tvg-logo="https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/colorLogoPNG.png" tvg-chno="200" group-title="100% Français", Un gars, une fille
+https://r.mjh.nz/PlutoTV/62f3ece7b09fd6000783bfb9-alt.m3u8
+
+#EXTINF:-1 tvg-name="Les filles d'à côté" tvg-id="60549d97cd7b090007c73314" tvg-logo="https://images.pluto.tv/channels/60549d97cd7b090007c73314/colorLogoPNG.png" tvg-chno="205" group-title="100% Français", Les filles d'à côté
+https://r.mjh.nz/PlutoTV/60549d97cd7b090007c73314-alt.m3u8
+
+#EXTINF:-1 tvg-name="Hélène et les garçons" tvg-id="604f8de01b479400078fb1e7" tvg-logo="https://images.pluto.tv/channels/604f8de01b479400078fb1e7/colorLogoPNG.png" tvg-chno="210" group-title="100% Français", Hélène et les garçons
+https://r.mjh.nz/PlutoTV/604f8de01b479400078fb1e7-alt.m3u8
+
+#EXTINF:-1 tvg-name="Le miracle de l'amour" tvg-id="60549c238c3f21000753d3e0" tvg-logo="https://images.pluto.tv/channels/60549c238c3f21000753d3e0/colorLogoPNG.png" tvg-chno="215" group-title="100% Français", Le miracle de l'amour
+https://r.mjh.nz/PlutoTV/60549c238c3f21000753d3e0-alt.m3u8
+
+#EXTINF:-1 tvg-name="Un Village Français" tvg-id="6304f2e2eb10450007298023" tvg-logo="https://images.pluto.tv/channels/6304f2e2eb10450007298023/colorLogoPNG.png" tvg-chno="220" group-title="100% Français", Un Village Français
+https://r.mjh.nz/PlutoTV/6304f2e2eb10450007298023-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV French Collection" tvg-id="62f3e0522443200008c567d7" tvg-logo="https://images.pluto.tv/channels/62f3e0522443200008c567d7/colorLogoPNG.png" tvg-chno="225" group-title="100% Français", Pluto TV French Collection
+https://r.mjh.nz/PlutoTV/62f3e0522443200008c567d7-alt.m3u8
+
+#EXTINF:-1 tvg-name="INA 70" tvg-id="639b54404cfdf7000729b3c1" tvg-logo="https://images.pluto.tv/channels/639b54404cfdf7000729b3c1/colorLogoPNG.png" tvg-chno="226" group-title="100% Français", INA 70
+https://r.mjh.nz/PlutoTV/639b54404cfdf7000729b3c1-alt.m3u8
+
+#EXTINF:-1 tvg-name="Louis La Brocante" tvg-id="5f8ed6d569d2d4000864a976" tvg-logo="https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/colorLogoPNG.png" tvg-chno="230" group-title="100% Français", Louis La Brocante
+https://r.mjh.nz/PlutoTV/5f8ed6d569d2d4000864a976-alt.m3u8
+
+#EXTINF:-1 tvg-name="Les Années fac" tvg-id="60afae68a7fc50000737186d" tvg-logo="https://images.pluto.tv/channels/60afae68a7fc50000737186d/colorLogoPNG.png" tvg-chno="240" group-title="100% Français", Les Années fac
+https://r.mjh.nz/PlutoTV/60afae68a7fc50000737186d-alt.m3u8
+
+#EXTINF:-1 tvg-name="Coeur Océan" tvg-id="62f3dd1c2f29ce0007e18596" tvg-logo="https://images.pluto.tv/channels/62f3dd1c2f29ce0007e18596/colorLogoPNG.png" tvg-chno="245" group-title="100% Français", Coeur Océan
+https://r.mjh.nz/PlutoTV/62f3dd1c2f29ce0007e18596-alt.m3u8
+
+#EXTINF:-1 tvg-name="Les Cordier" tvg-id="5f8ed80fa09f120007c8daa5" tvg-logo="https://images.pluto.tv/channels/5f8ed80fa09f120007c8daa5/colorLogoPNG.png" tvg-chno="250" group-title="100% Français", Les Cordier
+https://r.mjh.nz/PlutoTV/5f8ed80fa09f120007c8daa5-alt.m3u8
+
+#EXTINF:-1 tvg-name="Génération Sitcoms" tvg-id="60afb203ec391c00070ea1bf" tvg-logo="https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/colorLogoPNG.png" tvg-chno="265" group-title="100% Français", Génération Sitcoms
+https://r.mjh.nz/PlutoTV/60afb203ec391c00070ea1bf-alt.m3u8
+
+#EXTINF:-1 tvg-name="Instant Saga" tvg-id="60549e98061b5f000776866a" tvg-logo="https://images.pluto.tv/channels/60549e98061b5f000776866a/colorLogoPNG.png" tvg-chno="270" group-title="100% Français", Instant Saga
+https://r.mjh.nz/PlutoTV/60549e98061b5f000776866a-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Action" tvg-id="5f8ed1ff5c39700007e2204a" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" tvg-chno="300" group-title="Cinéma", Pluto TV Action
+https://r.mjh.nz/PlutoTV/5f8ed1ff5c39700007e2204a-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Thrillers" tvg-id="60c3472a51a2050008dad272" tvg-logo="https://images.pluto.tv/channels/60c3472a51a2050008dad272/colorLogoPNG.png" tvg-chno="305" group-title="Cinéma", Pluto TV Thrillers
+https://r.mjh.nz/PlutoTV/60c3472a51a2050008dad272-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Sci-Fi" tvg-id="60c34592c911890007f29a73" tvg-logo="https://images.pluto.tv/channels/60c34592c911890007f29a73/colorLogoPNG.png" tvg-chno="310" group-title="Cinéma", Pluto TV Sci-Fi
+https://r.mjh.nz/PlutoTV/60c34592c911890007f29a73-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Ciné d'Asie" tvg-id="62f3e2d000418d00070f7dbc" tvg-logo="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/colorLogoPNG.png" tvg-chno="315" group-title="Cinéma", Pluto TV Ciné d'Asie
+https://r.mjh.nz/PlutoTV/62f3e2d000418d00070f7dbc-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Ciné" tvg-id="5f8ed0f17564a300082b676a" tvg-logo="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/colorLogoPNG.png" tvg-chno="320" group-title="Cinéma", Pluto TV Ciné
+https://r.mjh.nz/PlutoTV/5f8ed0f17564a300082b676a-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Romance" tvg-id="60812fc8539963000707d1e1" tvg-logo="https://images.pluto.tv/channels/60812fc8539963000707d1e1/colorLogoPNG.png" tvg-chno="325" group-title="Cinéma", Pluto TV Romance
+https://r.mjh.nz/PlutoTV/60812fc8539963000707d1e1-alt.m3u8
+
+#EXTINF:-1 tvg-name="Téléfilms de Noël by Pluto TV" tvg-id="65251c3a9c7aeb00083741c9" tvg-logo="https://images.pluto.tv/channels/65251c3a9c7aeb00083741c9/colorLogoPNG.png" tvg-chno="326" group-title="Cinéma", Téléfilms de Noël by Pluto TV
+https://r.mjh.nz/PlutoTV/65251c3a9c7aeb00083741c9-alt.m3u8
+
+#EXTINF:-1 tvg-name="Têtu TV" tvg-id="615c4bdfdd585f000732a22b" tvg-logo="https://images.pluto.tv/channels/615c4bdfdd585f000732a22b/colorLogoPNG.png" tvg-chno="330" group-title="Cinéma", Têtu TV
+https://r.mjh.nz/PlutoTV/615c4bdfdd585f000732a22b-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Ciné Rétro" tvg-id="5f8ed168f72fcd0007e56269" tvg-logo="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/colorLogoPNG.png" tvg-chno="335" group-title="Cinéma", Pluto TV Ciné Rétro
+https://r.mjh.nz/PlutoTV/5f8ed168f72fcd0007e56269-alt.m3u8
+
+#EXTINF:-1 tvg-name="Wild Side TV" tvg-id="60b4d6c806ad2a00073b3108" tvg-logo="https://images.pluto.tv/channels/60b4d6c806ad2a00073b3108/colorLogoPNG.png" tvg-chno="340" group-title="Cinéma", Wild Side TV
+https://r.mjh.nz/PlutoTV/60b4d6c806ad2a00073b3108-alt.m3u8
+
+#EXTINF:-1 tvg-name="The Asylum" tvg-id="5f8ece1a89d79800072510e6" tvg-logo="https://images.pluto.tv/channels/5f8ece1a89d79800072510e6/colorLogoPNG.png" tvg-chno="345" group-title="Cinéma", The Asylum
+https://r.mjh.nz/PlutoTV/5f8ece1a89d79800072510e6-alt.m3u8
+
+#EXTINF:-1 tvg-name="Family Club" tvg-id="64c9260ac0222700089ee62b" tvg-logo="https://images.pluto.tv/channels/64c9260ac0222700089ee62b/colorLogoPNG.png" tvg-chno="350" group-title="Cinéma", Family Club
+https://r.mjh.nz/PlutoTV/64c9260ac0222700089ee62b-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Investigation" tvg-id="5f914f4b36d67d0007a91a04" tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" tvg-chno="400" group-title="Crime & Mystère", Pluto TV Investigation
+https://r.mjh.nz/PlutoTV/5f914f4b36d67d0007a91a04-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Paranormal" tvg-id="5f8ed9461b35690007a0bc3a" tvg-logo="https://images.pluto.tv/channels/5f8ed9461b35690007a0bc3a/colorLogoPNG.png" tvg-chno="405" group-title="Crime & Mystère", Pluto TV Paranormal
+https://r.mjh.nz/PlutoTV/5f8ed9461b35690007a0bc3a-alt.m3u8
+
+#EXTINF:-1 tvg-name="Homicide" tvg-id="63921a3d00c96100082a3cb4" tvg-logo="https://images.pluto.tv/channels/63921a3d00c96100082a3cb4/colorLogoPNG.png" tvg-chno="410" group-title="Crime & Mystère", Homicide
+https://r.mjh.nz/PlutoTV/63921a3d00c96100082a3cb4-alt.m3u8
+
+#EXTINF:-1 tvg-name="Enquêtes de Choc" tvg-id="63921a1bf76e7d0007c998a6" tvg-logo="https://images.pluto.tv/channels/63921a1bf76e7d0007c998a6/colorLogoPNG.png" tvg-chno="415" group-title="Crime & Mystère", Enquêtes de Choc
+https://r.mjh.nz/PlutoTV/63921a1bf76e7d0007c998a6-alt.m3u8
+
+#EXTINF:-1 tvg-name="Les Nouveaux Detectives" tvg-id="5f8edb6df1ebb800072edf10" tvg-logo="https://images.pluto.tv/channels/5f8edb6df1ebb800072edf10/colorLogoPNG.png" tvg-chno="420" group-title="Crime & Mystère", Les Nouveaux Detectives
+https://r.mjh.nz/PlutoTV/5f8edb6df1ebb800072edf10-alt.m3u8
+
+#EXTINF:-1 tvg-name="Dossiers FBI" tvg-id="5f8edad922b10b000753bc37" tvg-logo="https://images.pluto.tv/channels/5f8edad922b10b000753bc37/colorLogoPNG-1608307486966.png" tvg-chno="425" group-title="Crime & Mystère", Dossiers FBI
+https://r.mjh.nz/PlutoTV/5f8edad922b10b000753bc37-alt.m3u8
+
+#EXTINF:-1 tvg-name="South Park" tvg-id="618e34ac4a270700077b1f32" tvg-logo="https://images.pluto.tv/channels/618e34ac4a270700077b1f32/colorLogoPNG.png" tvg-chno="500" group-title="Animation & Gaming", South Park
+https://r.mjh.nz/PlutoTV/618e34ac4a270700077b1f32-alt.m3u8
+
+#EXTINF:-1 tvg-name="One Piece" tvg-id="6380c94947c72b0007ee9a13" tvg-logo="https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/colorLogoPNG.png" tvg-chno="505" group-title="Animation & Gaming", One Piece
+https://r.mjh.nz/PlutoTV/6380c94947c72b0007ee9a13-alt.m3u8
+
+#EXTINF:-1 tvg-name="Yu-Gi-Oh!" tvg-id="6130d9c712c2b000070abb50" tvg-logo="https://images.pluto.tv/channels/6130d9c712c2b000070abb50/colorLogoPNG.png" tvg-chno="510" group-title="Animation & Gaming", Yu-Gi-Oh!
+https://r.mjh.nz/PlutoTV/6130d9c712c2b000070abb50-alt.m3u8
+
+#EXTINF:-1 tvg-name="Detective Conan" tvg-id="62f3e8ad2a8e8000077b013d" tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG.png" tvg-chno="515" group-title="Animation & Gaming", Detective Conan
+https://r.mjh.nz/PlutoTV/62f3e8ad2a8e8000077b013d-alt.m3u8
+
+#EXTINF:-1 tvg-name="Inazuma Eleven" tvg-id="611e75226b7f420007c3f319" tvg-logo="https://images.pluto.tv/channels/611e75226b7f420007c3f319/colorLogoPNG.png" tvg-chno="520" group-title="Animation & Gaming", Inazuma Eleven
+https://r.mjh.nz/PlutoTV/611e75226b7f420007c3f319-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Retro Toons" tvg-id="611e6a9b4bb5790007a6f0f8" tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" tvg-chno="530" group-title="Animation & Gaming", Pluto TV Retro Toons
+https://r.mjh.nz/PlutoTV/611e6a9b4bb5790007a6f0f8-alt.m3u8
+
+#EXTINF:-1 tvg-name="Gaming TV" tvg-id="5f8eccd81062c300078a11df" tvg-logo="https://images.pluto.tv/channels/5f8eccd81062c300078a11df/colorLogoPNG.png" tvg-chno="535" group-title="Animation & Gaming", Gaming TV
+https://r.mjh.nz/PlutoTV/5f8eccd81062c300078a11df-alt.m3u8
+
+#EXTINF:-1 tvg-name="C'est pas sorcier" tvg-id="63b579961bdba100071214cb" tvg-logo="https://images.pluto.tv/channels/63b579961bdba100071214cb/colorLogoPNG.png" tvg-chno="600" group-title="Documentaire + Lifestyle", C'est pas sorcier
+https://r.mjh.nz/PlutoTV/63b579961bdba100071214cb-alt.m3u8
+
+#EXTINF:-1 tvg-name="Echappées Belles & Co" tvg-id="63b578b524f0cf00072f2a52" tvg-logo="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/colorLogoPNG.png" tvg-chno="605" group-title="Documentaire + Lifestyle", Echappées Belles & Co
+https://r.mjh.nz/PlutoTV/63b578b524f0cf00072f2a52-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Histoire" tvg-id="611e771e2f5f180007002224" tvg-logo="https://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" tvg-chno="610" group-title="Documentaire + Lifestyle", Pluto TV Histoire
+https://r.mjh.nz/PlutoTV/611e771e2f5f180007002224-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Inside" tvg-id="5f8ed3892ed7bb000741a1d2" tvg-logo="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" tvg-chno="620" group-title="Documentaire + Lifestyle", Pluto TV Inside
+https://r.mjh.nz/PlutoTV/5f8ed3892ed7bb000741a1d2-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Animaux" tvg-id="60925a44f0350600075a1fdc" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png" tvg-chno="625" group-title="Documentaire + Lifestyle", Pluto TV Animaux
+https://r.mjh.nz/PlutoTV/60925a44f0350600075a1fdc-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Cuisine" tvg-id="5f8ed48146ba9e00078424b6" tvg-logo="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/colorLogoPNG.png" tvg-chno="630" group-title="Documentaire + Lifestyle", Pluto TV Cuisine
+https://r.mjh.nz/PlutoTV/5f8ed48146ba9e00078424b6-alt.m3u8
+
+#EXTINF:-1 tvg-name="Nature Time" tvg-id="61fc0df14159c40007250432" tvg-logo="https://images.pluto.tv/channels/61fc0df14159c40007250432/colorLogoPNG.png" tvg-chno="635" group-title="Documentaire + Lifestyle", Nature Time
+https://r.mjh.nz/PlutoTV/61fc0df14159c40007250432-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Voyage" tvg-id="611e7811eb9daf000764cbfd" tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" tvg-chno="640" group-title="Documentaire + Lifestyle", Pluto TV Voyage
+https://r.mjh.nz/PlutoTV/611e7811eb9daf000764cbfd-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Yoga" tvg-id="60803e541a829e0008e91641" tvg-logo="https://images.pluto.tv/channels/60803e541a829e0008e91641/colorLogoPNG.png" tvg-chno="645" group-title="Documentaire + Lifestyle", Pluto TV Yoga
+https://r.mjh.nz/PlutoTV/60803e541a829e0008e91641-alt.m3u8
+
+#EXTINF:-1 tvg-name="Wellbeing TV" tvg-id="62f21f7e0f61420008273b9e" tvg-logo="https://images.pluto.tv/channels/62f21f7e0f61420008273b9e/colorLogoPNG.png" tvg-chno="650" group-title="Documentaire + Lifestyle", Wellbeing TV
+https://r.mjh.nz/PlutoTV/62f21f7e0f61420008273b9e-alt.m3u8
+
+#EXTINF:-1 tvg-name="CATFISH TV" tvg-id="5f8eb66537867f0007146953" tvg-logo="https://images.pluto.tv/channels/5f8eb66537867f0007146953/colorLogoPNG.png" tvg-chno="700" group-title="TV Réalité", CATFISH TV
+https://r.mjh.nz/PlutoTV/5f8eb66537867f0007146953-alt.m3u8
+
+#EXTINF:-1 tvg-name="Just Tattoo of Us" tvg-id="6304f20c941c5d00089634e7" tvg-logo="https://images.pluto.tv/channels/6304f20c941c5d00089634e7/colorLogoPNG.png" tvg-chno="705" group-title="TV Réalité", Just Tattoo of Us
+https://r.mjh.nz/PlutoTV/6304f20c941c5d00089634e7-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Reality" tvg-id="6092544e7639460007d4835e" tvg-logo="https://images.pluto.tv/channels/6092544e7639460007d4835e/colorLogoPNG.png" tvg-chno="710" group-title="TV Réalité", Pluto TV Reality
+https://r.mjh.nz/PlutoTV/6092544e7639460007d4835e-alt.m3u8
+
+#EXTINF:-1 tvg-name="Secret Story" tvg-id="62f216abc4a6540007d26b2e" tvg-logo="https://images.pluto.tv/channels/62f216abc4a6540007d26b2e/colorLogoPNG.png" tvg-chno="715" group-title="TV Réalité", Secret Story
+https://r.mjh.nz/PlutoTV/62f216abc4a6540007d26b2e-alt.m3u8
+
+#EXTINF:-1 tvg-name="MTV CLASSICS" tvg-id="5f92b56a367e170007cd43f4" tvg-logo="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/colorLogoPNG.png" tvg-chno="720" group-title="TV Réalité", MTV CLASSICS
+https://r.mjh.nz/PlutoTV/5f92b56a367e170007cd43f4-alt.m3u8
+
+#EXTINF:-1 tvg-name="Teen Mom" tvg-id="62f3f05505e621000783df2f" tvg-logo="https://images.pluto.tv/channels/62f3f05505e621000783df2f/colorLogoPNG.png" tvg-chno="725" group-title="TV Réalité", Teen Mom
+https://r.mjh.nz/PlutoTV/62f3f05505e621000783df2f-alt.m3u8
+
+#EXTINF:-1 tvg-name="Are You The One?" tvg-id="6192416c06d23b0007379766" tvg-logo="https://images.pluto.tv/channels/6192416c06d23b0007379766/colorLogoPNG.png" tvg-chno="730" group-title="TV Réalité", Are You The One?
+https://r.mjh.nz/PlutoTV/6192416c06d23b0007379766-alt.m3u8
+
+#EXTINF:-1 tvg-name="CRIBS : MAISONS DE STAR" tvg-id="602cf8963b4bc90007454541" tvg-logo="https://images.pluto.tv/channels/602cf8963b4bc90007454541/colorLogoPNG.png" tvg-chno="735" group-title="TV Réalité", CRIBS : MAISONS DE STAR
+https://r.mjh.nz/PlutoTV/602cf8963b4bc90007454541-alt.m3u8
+
+#EXTINF:-1 tvg-name="Top Gear" tvg-id="64c1093824ade50008bd117f" tvg-logo="https://images.pluto.tv/channels/64c1093824ade50008bd117f/colorLogoPNG.png" tvg-chno="800" group-title="Divertissement", Top Gear
+https://r.mjh.nz/PlutoTV/64c1093824ade50008bd117f-alt.m3u8
+
+#EXTINF:-1 tvg-name="Adjugé, vendu !" tvg-id="64bab8ba5dc1660008969b5a" tvg-logo="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/colorLogoPNG.png" tvg-chno="801" group-title="Divertissement", Adjugé, vendu !
+https://r.mjh.nz/PlutoTV/64bab8ba5dc1660008969b5a-alt.m3u8
+
+#EXTINF:-1 tvg-name="Toute une histoire" tvg-id="62f3e6aebcdda4000754fa47" tvg-logo="https://images.pluto.tv/channels/62f3e6aebcdda4000754fa47/colorLogoPNG.png" tvg-chno="805" group-title="Divertissement", Toute une histoire
+https://r.mjh.nz/PlutoTV/62f3e6aebcdda4000754fa47-alt.m3u8
+
+#EXTINF:-1 tvg-name="Y'a que la vérité qui compte" tvg-id="612e044c970e6f00083bcf3b" tvg-logo="https://images.pluto.tv/channels/612e044c970e6f00083bcf3b/colorLogoPNG.png" tvg-chno="810" group-title="Divertissement", Y'a que la vérité qui compte
+https://r.mjh.nz/PlutoTV/612e044c970e6f00083bcf3b-alt.m3u8
+
+#EXTINF:-1 tvg-name="À prendre ou à laisser" tvg-id="643531ba82a18e0008a4d57c" tvg-logo="https://images.pluto.tv/channels/643531ba82a18e0008a4d57c/colorLogoPNG.png" tvg-chno="815" group-title="Divertissement", À prendre ou à laisser
+https://r.mjh.nz/PlutoTV/643531ba82a18e0008a4d57c-alt.m3u8
+
+#EXTINF:-1 tvg-name="Les 30 Histoires" tvg-id="64353456af2bd900088c1a1c" tvg-logo="https://images.pluto.tv/channels/64353456af2bd900088c1a1c/colorLogoPNG.png" tvg-chno="820" group-title="Divertissement", Les 30 Histoires
+https://r.mjh.nz/PlutoTV/64353456af2bd900088c1a1c-alt.m3u8
+
+#EXTINF:-1 tvg-name="Masterchef" tvg-id="62f215f41afad500077e2ef1" tvg-logo="https://images.pluto.tv/channels/62f215f41afad500077e2ef1/colorLogoPNG.png" tvg-chno="825" group-title="Divertissement", Masterchef
+https://r.mjh.nz/PlutoTV/62f215f41afad500077e2ef1-alt.m3u8
+
+#EXTINF:-1 tvg-name="BET CLASSICS Pluto TV" tvg-id="5f92b5ba040eaa0007074d0a" tvg-logo="https://images.pluto.tv/channels/5f92b5ba040eaa0007074d0a/colorLogoPNG.png" tvg-chno="830" group-title="Divertissement", BET CLASSICS Pluto TV
+https://r.mjh.nz/PlutoTV/5f92b5ba040eaa0007074d0a-alt.m3u8
+
+#EXTINF:-1 tvg-name="Chefclub" tvg-id="62729857ba845f00071d80b1" tvg-logo="https://images.pluto.tv/channels/62729857ba845f00071d80b1/colorLogoPNG.png" tvg-chno="835" group-title="Divertissement", Chefclub
+https://r.mjh.nz/PlutoTV/62729857ba845f00071d80b1-alt.m3u8
+
+#EXTINF:-1 tvg-name="Bob l'éponge" tvg-id="5ffc8c345822750007e167de" tvg-logo="https://images.pluto.tv/channels/5ffc8c345822750007e167de/colorLogoPNG.png" tvg-chno="900" group-title="Kids Max", Bob l'éponge
+https://r.mjh.nz/PlutoTV/5ffc8c345822750007e167de-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Super Kids" tvg-id="652557d93fd33c000802f995" tvg-logo="https://images.pluto.tv/channels/652557d93fd33c000802f995/colorLogoPNG.png" tvg-chno="901" group-title="Kids Max", Pluto TV Super Kids
+https://r.mjh.nz/PlutoTV/652557d93fd33c000802f995-alt.m3u8
+
+#EXTINF:-1 tvg-name="Avatar" tvg-id="60b4c17a81e29300071d3a39" tvg-logo="https://images.pluto.tv/channels/60b4c17a81e29300071d3a39/colorLogoPNG.png" tvg-chno="905" group-title="Kids Max", Avatar
+https://r.mjh.nz/PlutoTV/60b4c17a81e29300071d3a39-alt.m3u8
+
+#EXTINF:-1 tvg-name="Tortues Ninja TV" tvg-id="5f8ecc1b37867f00071469e9" tvg-logo="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/colorLogoPNG.png" tvg-chno="910" group-title="Kids Max", Tortues Ninja TV
+https://r.mjh.nz/PlutoTV/5f8ecc1b37867f00071469e9-alt.m3u8
+
+#EXTINF:-1 tvg-name="Digimon Adventure" tvg-id="617bae1d69bca3000729561e" tvg-logo="https://images.pluto.tv/channels/617bae1d69bca3000729561e/colorLogoPNG.png" tvg-chno="915" group-title="Kids Max", Digimon Adventure
+https://r.mjh.nz/PlutoTV/617bae1d69bca3000729561e-alt.m3u8
+
+#EXTINF:-1 tvg-name="iCarly TV" tvg-id="5f8ecc7aa44d9c00081fca29" tvg-logo="https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/colorLogoPNG.png" tvg-chno="920" group-title="Kids Max", iCarly TV
+https://r.mjh.nz/PlutoTV/5f8ecc7aa44d9c00081fca29-alt.m3u8
+
+#EXTINF:-1 tvg-name="Victorious" tvg-id="64bab8830e086a0009d44273" tvg-logo="https://images.pluto.tv/channels/64bab8830e086a0009d44273/colorLogoPNG.png" tvg-chno="922" group-title="Kids Max", Victorious
+https://r.mjh.nz/PlutoTV/64bab8830e086a0009d44273-alt.m3u8
+
+#EXTINF:-1 tvg-name="Degrassi" tvg-id="611e71322f5f180007001dde" tvg-logo="https://images.pluto.tv/channels/611e71322f5f180007001dde/colorLogoPNG.png" tvg-chno="925" group-title="Kids Max", Degrassi
+https://r.mjh.nz/PlutoTV/611e71322f5f180007001dde-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Kids Séries" tvg-id="5f8eb99ff17815000784a3b0" tvg-logo="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/colorLogoPNG-1608309057566.png" tvg-chno="930" group-title="Kids Max", Pluto TV Kids Séries
+https://r.mjh.nz/PlutoTV/5f8eb99ff17815000784a3b0-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Kids Classics" tvg-id="654a58dbf9cc82000868f0fb" tvg-logo="https://images.pluto.tv/channels/654a58dbf9cc82000868f0fb/colorLogoPNG.png" tvg-chno="935" group-title="Kids", Pluto TV Kids Classics
+https://r.mjh.nz/PlutoTV/654a58dbf9cc82000868f0fb-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Kids Animation" tvg-id="5f8eba14a4ffb8000764e950" tvg-logo="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/colorLogoPNG.png" tvg-chno="940" group-title="Kids", Pluto TV Kids Animation
+https://r.mjh.nz/PlutoTV/5f8eba14a4ffb8000764e950-alt.m3u8
+
+#EXTINF:-1 tvg-name="Les Razmoket" tvg-id="619cee9d5dc3ed0007d845c8" tvg-logo="https://images.pluto.tv/channels/619cee9d5dc3ed0007d845c8/colorLogoPNG.png" tvg-chno="945" group-title="Kids", Les Razmoket
+https://r.mjh.nz/PlutoTV/619cee9d5dc3ed0007d845c8-alt.m3u8
+
+#EXTINF:-1 tvg-name="Winx Club" tvg-id="62568911bb8f48000848a4c7" tvg-logo="https://images.pluto.tv/channels/62568911bb8f48000848a4c7/colorLogoPNG.png" tvg-chno="950" group-title="Kids", Winx Club
+https://r.mjh.nz/PlutoTV/62568911bb8f48000848a4c7-alt.m3u8
+
+#EXTINF:-1 tvg-name="Sabrina, la série animée" tvg-id="611e78c4954f250007ef7b84" tvg-logo="https://images.pluto.tv/channels/611e78c4954f250007ef7b84/colorLogoPNG.png" tvg-chno="955" group-title="Kids", Sabrina, la série animée
+https://r.mjh.nz/PlutoTV/611e78c4954f250007ef7b84-alt.m3u8
+
+#EXTINF:-1 tvg-name="Angela Anaconda" tvg-id="611e73687fcd580007d1f052" tvg-logo="https://images.pluto.tv/channels/611e73687fcd580007d1f052/colorLogoPNG.png" tvg-chno="960" group-title="Kids", Angela Anaconda
+https://r.mjh.nz/PlutoTV/611e73687fcd580007d1f052-alt.m3u8
+
+#EXTINF:-1 tvg-name="Charlotte aux Fraises" tvg-id="60dc6937b450ad0007377e48" tvg-logo="https://images.pluto.tv/channels/60dc6937b450ad0007377e48/colorLogoPNG.png" tvg-chno="965" group-title="Kids", Charlotte aux Fraises
+https://r.mjh.nz/PlutoTV/60dc6937b450ad0007377e48-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Kids Gaming" tvg-id="611e6ddc7fcd580007d1eb5f" tvg-logo="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG.png" tvg-chno="970" group-title="Kids", Pluto TV Kids Gaming
+https://r.mjh.nz/PlutoTV/611e6ddc7fcd580007d1eb5f-alt.m3u8
+
+#EXTINF:-1 tvg-name="Dora TV" tvg-id="5f8ecb9524419b0007365a1c" tvg-logo="https://images.pluto.tv/channels/5f8ecb9524419b0007365a1c/colorLogoPNG.png" tvg-chno="975" group-title="Kids", Dora TV
+https://r.mjh.nz/PlutoTV/5f8ecb9524419b0007365a1c-alt.m3u8
+
+#EXTINF:-1 tvg-name="Bubble Guppies" tvg-id="618e3c1106d23b0007366723" tvg-logo="https://images.pluto.tv/channels/618e3c1106d23b0007366723/colorLogoPNG.png" tvg-chno="980" group-title="Kids", Bubble Guppies
+https://r.mjh.nz/PlutoTV/618e3c1106d23b0007366723-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Junior" tvg-id="5f8ecb336537e8000764a17f" tvg-logo="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/colorLogoPNG.png" tvg-chno="985" group-title="Kids", Pluto TV Junior
+https://r.mjh.nz/PlutoTV/5f8ecb336537e8000764a17f-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Kids Ukraine" tvg-id="6228b86dbb834e0007b75019" tvg-logo="https://images.pluto.tv/channels/6228b86dbb834e0007b75019/colorLogoPNG.png" tvg-chno="990" group-title="Kids", Pluto TV Kids Ukraine
+https://r.mjh.nz/PlutoTV/6228b86dbb834e0007b75019-alt.m3u8
+
+#EXTINF:-1 tvg-name="Ridiculousness" tvg-id="5f8eb8a8b2619a000710605c" tvg-logo="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/colorLogoPNG.png" tvg-chno="1000" group-title="Comédie", Ridiculousness
+https://r.mjh.nz/PlutoTV/5f8eb8a8b2619a000710605c-alt.m3u8
+
+#EXTINF:-1 tvg-name="Juste pour Rire" tvg-id="60afa1508284e60007163c08" tvg-logo="https://images.pluto.tv/channels/60afa1508284e60007163c08/colorLogoPNG.png" tvg-chno="1005" group-title="Comédie", Juste pour Rire
+https://r.mjh.nz/PlutoTV/60afa1508284e60007163c08-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Comédie" tvg-id="5f8eb91bb9b9e7000817e67f" tvg-logo="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/colorLogoPNG.png" tvg-chno="1010" group-title="Comédie", Pluto TV Comédie
+https://r.mjh.nz/PlutoTV/5f8eb91bb9b9e7000817e67f-alt.m3u8
+
+#EXTINF:-1 tvg-name="FailArmy" tvg-id="5f8ecd9169d2d4000864a974" tvg-logo="https://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/colorLogoPNG.png" tvg-chno="1015" group-title="Comédie", FailArmy
+https://r.mjh.nz/PlutoTV/5f8ecd9169d2d4000864a974-alt.m3u8
+
+#EXTINF:-1 tvg-name="The Pet Collective" tvg-id="5f8ecd336d64c9000754cdf1" tvg-logo="https://images.pluto.tv/channels/5f8ecd336d64c9000754cdf1/colorLogoPNG.png" tvg-chno="1020" group-title="Comédie", The Pet Collective
+https://r.mjh.nz/PlutoTV/5f8ecd336d64c9000754cdf1-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Classic Hip-Hop" tvg-id="625e79fe9b586d000785e330" tvg-logo="https://images.pluto.tv/channels/625e79fe9b586d000785e330/colorLogoPNG.png" tvg-chno="1030" group-title="Musique", Pluto TV Classic Hip-Hop
+https://r.mjh.nz/PlutoTV/625e79fe9b586d000785e330-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Classic Rock" tvg-id="6447d08f2858cb0008b9957c" tvg-logo="https://images.pluto.tv/channels/6447d08f2858cb0008b9957c/colorLogoPNG.png" tvg-chno="1035" group-title="Musique", Pluto TV Classic Rock
+https://r.mjh.nz/PlutoTV/6447d08f2858cb0008b9957c-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV K-Pop" tvg-id="60c8b57beef158000787ac19" tvg-logo="https://images.pluto.tv/channels/60c8b57beef158000787ac19/colorLogoPNG.png" tvg-chno="1040" group-title="Musique", Pluto TV K-Pop
+https://r.mjh.nz/PlutoTV/60c8b57beef158000787ac19-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Love Songs" tvg-id="619b80acac5329000740c022" tvg-logo="https://images.pluto.tv/channels/619b80acac5329000740c022/colorLogoPNG.png" tvg-chno="1050" group-title="Musique", Pluto TV Love Songs
+https://r.mjh.nz/PlutoTV/619b80acac5329000740c022-alt.m3u8
+
+#EXTINF:-1 tvg-name="Stingray Classica" tvg-id="6267dc92cc905f00087ee623" tvg-logo="https://images.pluto.tv/channels/6267dc92cc905f00087ee623/colorLogoPNG.png" tvg-chno="1060" group-title="Musique", Stingray Classica
+https://r.mjh.nz/PlutoTV/6267dc92cc905f00087ee623-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Sports" tvg-id="6081310e48d3200007afaf3b" tvg-logo="https://images.pluto.tv/channels/6081310e48d3200007afaf3b/colorLogoPNG.png" tvg-chno="1080" group-title="Sports & Auto", Pluto TV Sports
+https://r.mjh.nz/PlutoTV/6081310e48d3200007afaf3b-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Extrême" tvg-id="5f8ed327f9e9b0000761141e" tvg-logo="https://images.pluto.tv/channels/5f8ed327f9e9b0000761141e/colorLogoPNG-1608309868765.png" tvg-chno="1085" group-title="Sports & Auto", Pluto TV Extrême
+https://r.mjh.nz/PlutoTV/5f8ed327f9e9b0000761141e-alt.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Motor" tvg-id="618d4ea306d23b0007356080" tvg-logo="https://images.pluto.tv/channels/618d4ea306d23b0007356080/colorLogoPNG.png" tvg-chno="1090" group-title="Sports & Auto", Pluto TV Motor
+https://r.mjh.nz/PlutoTV/618d4ea306d23b0007356080-alt.m3u8
+
+#EXTINF:-1 tvg-name="Unbeaten Sports" tvg-id="64c3b0bf0e086a0009e8a60d" tvg-logo="https://images.pluto.tv/channels/64c3b0bf0e086a0009e8a60d/colorLogoPNG.png" tvg-chno="1092" group-title="Sports & Auto", Unbeaten Sports
+https://r.mjh.nz/PlutoTV/64c3b0bf0e086a0009e8a60d-alt.m3u8
+
+#EXTINF:-1 tvg-name="Motorvision" tvg-id="60817e1aa6997500072d0d6d" tvg-logo="https://images.pluto.tv/channels/60817e1aa6997500072d0d6d/colorLogoPNG.png" tvg-chno="1100" group-title="Sports & Auto", Motorvision
+https://r.mjh.nz/PlutoTV/60817e1aa6997500072d0d6d-alt.m3u8
+
+#EXTINF:-1 tvg-name="WPT" tvg-id="5f8ecfb9db6c180007a6d1b0" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" tvg-chno="1110" group-title="Sports & Auto", WPT
+https://r.mjh.nz/PlutoTV/5f8ecfb9db6c180007a6d1b0-alt.m3u8
+
+#EXTINF:-1 tvg-name="People are Awesome" tvg-id="5f8ed0720dc198000728f9d3" tvg-logo="https://images.pluto.tv/channels/5f8ed0720dc198000728f9d3/colorLogoPNG.png" tvg-chno="1115" group-title="Sports & Auto", People are Awesome
+https://r.mjh.nz/PlutoTV/5f8ed0720dc198000728f9d3-alt.m3u8
+
+#EXTINF:-1 tvg-name="Extreme Channel" tvg-id="626be090c5340d00073773f9" tvg-logo="https://images.pluto.tv/channels/626be090c5340d00073773f9/colorLogoPNG.png" tvg-chno="1120" group-title="Sports & Auto", Extreme Channel
+https://r.mjh.nz/PlutoTV/626be090c5340d00073773f9-alt.m3u8
+
+#EXTINF:-1 tvg-name="Euronews" tvg-id="60d35bcaf1ff4a00078af0a6" tvg-logo="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/colorLogoPNG.png" tvg-chno="1125" group-title="News & Info", Euronews
+https://r.mjh.nz/PlutoTV/60d35bcaf1ff4a00078af0a6-alt.m3u8
+
+#EXTINF:-1 tvg-name="CBS News" tvg-id="6231ec93779a9d00079ba8e2" tvg-logo="https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/colorLogoPNG.png" tvg-chno="1130" group-title="News & Info", CBS News
+https://r.mjh.nz/PlutoTV/6231ec93779a9d00079ba8e2-alt.m3u8
+
+#EXTINF:-1 tvg-name="Telefe Noticias" tvg-id="627d1dcae95da400073ef2d9" tvg-logo="https://images.pluto.tv/channels/627d1dcae95da400073ef2d9/colorLogoPNG.png" tvg-chno="1135" group-title="News & Info", Telefe Noticias
+https://r.mjh.nz/PlutoTV/627d1dcae95da400073ef2d9-alt.m3u8
+
+#EXTINF:-1 tvg-name="Chilevision Noticias" tvg-id="627d1e4593b906000734a5e4" tvg-logo="https://images.pluto.tv/channels/627d1e4593b906000734a5e4/colorLogoPNG.png" tvg-chno="1140" group-title="News & Info", Chilevision Noticias
+https://r.mjh.nz/PlutoTV/627d1e4593b906000734a5e4-alt.m3u8
+
+#EXTINF:-1 tvg-name="Plus belle la vie" tvg-id="FRBD37000020Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD37000020Y_20240117T032751SQUARE.png_20240117032752.png" tvg-chno="4001" group-title="Séries TV", Plus belle la vie
+https://i.mjh.nz/SamsungTVPlus/FRBD37000020Y.m3u8
+
+#EXTINF:-1 tvg-name="BFM TV" tvg-id="FRBD410000783" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20231213T034713SQUARE.png_20231213034713.png" tvg-chno="4002" group-title="Actualités", BFM TV
+https://i.mjh.nz/SamsungTVPlus/FRBD410000783.m3u8
+
+#EXTINF:-1 tvg-name="Euronews en direct" tvg-id="FRBA1000005TW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000005TW_20230222T012114SQUARE.png_20230222012115.png" tvg-chno="4003" group-title="Actualités", Euronews en direct
+https://i.mjh.nz/SamsungTVPlus/FRBA1000005TW.m3u8
+
+#EXTINF:-1 tvg-name="Comédies - Rakuten TV" tvg-id="FRAJ4500024MR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500024MR_20231213T033028SQUARE.png_20231213033029.png" tvg-chno="4004" group-title="Films", Comédies - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRAJ4500024MR.m3u8
+
+#EXTINF:-1 tvg-name="Destination Nature" tvg-id="FRBC4000001IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4000001IO_20231213T034714SQUARE.png_20231213034715.png" tvg-chno="4005" group-title="Nature", Destination Nature
+https://i.mjh.nz/SamsungTVPlus/FRBC4000001IO.m3u8
+
+#EXTINF:-1 tvg-name="Les Anges" tvg-id="FRBD4100001DF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100001DF_20240117T032800SQUARE.png_20240117032801.png" tvg-chno="4006" group-title="Divertissement", Les Anges
+https://i.mjh.nz/SamsungTVPlus/FRBD4100001DF.m3u8
+
+#EXTINF:-1 tvg-name="100% Docs" tvg-id="FRBD39000064E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000064E_20240117T032755SQUARE.png_20240117032755.png" tvg-chno="4007" group-title="Culture et Documentaires", 100% Docs
+https://i.mjh.nz/SamsungTVPlus/FRBD39000064E.m3u8
+
+#EXTINF:-1 tvg-name="RMC Story" tvg-id="FRBD41000097I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000097I_20231213T033048SQUARE.png_20231213033049.png" tvg-chno="4008" group-title="Culture et Documentaires", RMC Story
+https://i.mjh.nz/SamsungTVPlus/FRBD41000097I.m3u8
+
+#EXTINF:-1 tvg-name="RMC Découverte" tvg-id="FRBD4100008QS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100008QS_20231213T033047SQUARE.png_20231213033047.png" tvg-chno="4009" group-title="Culture et Documentaires", RMC Découverte
+https://i.mjh.nz/SamsungTVPlus/FRBD4100008QS.m3u8
+
+#EXTINF:-1 tvg-name="Au coin de feu" tvg-id="FRBD1500001BN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1500001BN_20231115T012241SQUARE.png_20231115012242.png" tvg-chno="4011" group-title="Lifestyle", Au coin de feu
+https://i.mjh.nz/SamsungTVPlus/FRBD1500001BN.m3u8
+
+#EXTINF:-1 tvg-name="A prendre ou à laisser" tvg-id="FRBC4700003FS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700003FS_20231011T084905SQUARE.png_20231011084905.png" tvg-chno="4108" group-title="Divertissement", A prendre ou à laisser
+https://i.mjh.nz/SamsungTVPlus/FRBC4700003FS.m3u8
+
+#EXTINF:-1 tvg-name="Qui veut gagner des millions ?" tvg-id="FRBD1900007PQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900007PQ_20230614T005638SQUARE.png_20230614005638.png" tvg-chno="4109" group-title="Divertissement", Qui veut gagner des millions ?
+https://i.mjh.nz/SamsungTVPlus/FRBD1900007PQ.m3u8
+
+#EXTINF:-1 tvg-name="FailArmy" tvg-id="FRBA33000234L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000234L_20221026T004317SQUARE.png_20221026004318.png" tvg-chno="4110" group-title="Divertissement", FailArmy
+https://i.mjh.nz/SamsungTVPlus/FRBA33000234L.m3u8
+
+#EXTINF:-1 tvg-name="Motus" tvg-id="FRBB490000412" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB490000412_20220608T011550SQUARE.png_20220608011553.png" tvg-chno="4111" group-title="Divertissement", Motus
+https://i.mjh.nz/SamsungTVPlus/FRBB490000412.m3u8
+
+#EXTINF:-1 tvg-name="Les Z'amours" tvg-id="FRBD1900005BA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900005BA_20231011T084909SQUARE.png_20231011084909.png" tvg-chno="4112" group-title="Divertissement", Les Z'amours
+https://i.mjh.nz/SamsungTVPlus/FRBD1900005BA.m3u8
+
+#EXTINF:-1 tvg-name="Allociné" tvg-id="FRBD3900001QP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3900001QP_20231115T012239SQUARE.png_20231115012240.png" tvg-chno="4113" group-title="Divertissement", Allociné
+https://i.mjh.nz/SamsungTVPlus/FRBD3900001QP.m3u8
+
+#EXTINF:-1 tvg-name="Ardivision" tvg-id="FRBD300000170" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD300000170_20230915T042735SQUARE.png_20230915042736.png" tvg-chno="4114" group-title="Divertissement", Ardivision
+https://i.mjh.nz/SamsungTVPlus/FRBD300000170.m3u8
+
+#EXTINF:-1 tvg-name="Le meilleur d'Arthur" tvg-id="FRBD1900006NA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900006NA_20230913T030712SQUARE.png_20230913030712.png" tvg-chno="4115" group-title="Divertissement", Le meilleur d'Arthur
+https://i.mjh.nz/SamsungTVPlus/FRBD1900006NA.m3u8
+
+#EXTINF:-1 tvg-name="ADN" tvg-id="FRBA2200007G7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200007G7_20230913T030647SQUARE.png_20230913030648.png" tvg-chno="4116" group-title="Divertissement", ADN
+https://i.mjh.nz/SamsungTVPlus/FRBA2200007G7.m3u8
+
+#EXTINF:-1 tvg-name="Gong" tvg-id="FRBB49000014I" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000014I_20220511T011734SQUARE.png_20220511011736.png" tvg-chno="4117" group-title="Divertissement", Gong
+https://i.mjh.nz/SamsungTVPlus/FRBB49000014I.m3u8
+
+#EXTINF:-1 tvg-name="Le Meilleur de la TV Réalité" tvg-id="FRBD3900005MB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3900005MB_20231101T032833SQUARE.png_20231101032834.png" tvg-chno="4118" group-title="Divertissement", Le Meilleur de la TV Réalité
+https://i.mjh.nz/SamsungTVPlus/FRBD3900005MB.m3u8
+
+#EXTINF:-1 tvg-name="MGG FAST" tvg-id="FRBC3900003ZH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900003ZH_20221012T021120SQUARE.png_20221012021120.png" tvg-chno="4121" group-title="Divertissement", MGG FAST
+https://i.mjh.nz/SamsungTVPlus/FRBC3900003ZH.m3u8
+
+#EXTINF:-1 tvg-name="MTV Classics" tvg-id="FRAJ3800004CC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800004CC_20221026T004305SQUARE.png_20221026004305.png" tvg-chno="4122" group-title="Divertissement", MTV Classics
+https://i.mjh.nz/SamsungTVPlus/FRAJ3800004CC.m3u8
+
+#EXTINF:-1 tvg-name="People Are Awesome" tvg-id="FRBA10000029E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA10000029E_20220323T080106SQUARE.png_20220323080109.png" tvg-chno="4125" group-title="Divertissement", People Are Awesome
+https://i.mjh.nz/SamsungTVPlus/FRBA10000029E.m3u8
+
+#EXTINF:-1 tvg-name="MTV Catfish" tvg-id="FRAJ38000050Z" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000050Z_20221026T004306SQUARE.png_20221026004307.png" tvg-chno="4128" group-title="Divertissement", MTV Catfish
+https://i.mjh.nz/SamsungTVPlus/FRAJ38000050Z.m3u8
+
+#EXTINF:-1 tvg-name="Y'a que la vérité qui compte" tvg-id="FRBC900003KP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900003KP_20230913T030719SQUARE.png_20230913030719.png" tvg-chno="4131" group-title="Divertissement", Y'a que la vérité qui compte
+https://i.mjh.nz/SamsungTVPlus/FRBC900003KP.m3u8
+
+#EXTINF:-1 tvg-name="Trailers" tvg-id="FRBC9000041F" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC9000041F_20240117T032749SQUARE.png_20240117032749.png" tvg-chno="4133" group-title="Divertissement", Trailers
+https://i.mjh.nz/SamsungTVPlus/FRBC9000041F.m3u8
+
+#EXTINF:-1 tvg-name="Popcorn" tvg-id="FRBD4100002R7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100002R7_20231101T032837SQUARE.png_20231101032838.png" tvg-chno="4134" group-title="Divertissement", Popcorn
+https://i.mjh.nz/SamsungTVPlus/FRBD4100002R7.m3u8
+
+#EXTINF:-1 tvg-name="Juste Pour Rire" tvg-id="FRBA3300035UK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300035UK_20230412T042644SQUARE.png_20230412042645.png" tvg-chno="4136" group-title="Divertissement", Juste Pour Rire
+https://i.mjh.nz/SamsungTVPlus/FRBA3300035UK.m3u8
+
+#EXTINF:-1 tvg-name="Culture Pub" tvg-id="FRBD110000181" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD110000181_20230510T043938SQUARE.png_20230510043939.png" tvg-chno="4139" group-title="Divertissement", Culture Pub
+https://i.mjh.nz/SamsungTVPlus/FRBD110000181.m3u8
+
+#EXTINF:-1 tvg-name="Yu-Gi-Oh!" tvg-id="FRBA3300038I4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300038I4_20240117T032805SQUARE.png_20240117032806.png" tvg-chno="4142" group-title="Divertissement", Yu-Gi-Oh!
+https://i.mjh.nz/SamsungTVPlus/FRBA3300038I4.m3u8
+
+#EXTINF:-1 tvg-name="Wasabi" tvg-id="FRBD41000051L" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD41000051L_20231115T012300SQUARE.png_20231115012300.png" tvg-chno="4143" group-title="Divertissement", Wasabi
+https://i.mjh.nz/SamsungTVPlus/FRBD41000051L.m3u8
+
+#EXTINF:-1 tvg-name="Doctor Who" tvg-id="FRBA3300019CI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300019CI_20220323T075800SQUARE.png_20220323075803.png" tvg-chno="4160" group-title="Séries TV", Doctor Who
+https://i.mjh.nz/SamsungTVPlus/FRBA3300019CI.m3u8
+
+#EXTINF:-1 tvg-name="Nashville Channel" tvg-id="FRBC350000148" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC350000148_20230614T005636SQUARE.png_20230614005636.png" tvg-chno="4161" group-title="Séries TV", Nashville Channel
+https://i.mjh.nz/SamsungTVPlus/FRBC350000148.m3u8
+
+#EXTINF:-1 tvg-name="Alerte à Malibu" tvg-id="FRBC4700002RF" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700002RF_20231213T103950SQUARE.png_20231213103951.png" tvg-chno="4162" group-title="Séries TV", Alerte à Malibu
+https://i.mjh.nz/SamsungTVPlus/FRBC4700002RF.m3u8
+
+#EXTINF:-1 tvg-name="BBC Drama" tvg-id="FRBA1000008LK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000008LK_20220713T034405SQUARE.png_20220713034406.png" tvg-chno="4163" group-title="Séries TV", BBC Drama
+https://i.mjh.nz/SamsungTVPlus/FRBA1000008LK.m3u8
+
+#EXTINF:-1 tvg-name="Crime - Rakuten TV" tvg-id="FRBA33000365W" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000365W_20230510T043936SQUARE.png_20230510043937.png" tvg-chno="4165" group-title="Séries TV", Crime - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRBA33000365W.m3u8
+
+#EXTINF:-1 tvg-name="Televisa TeleNovelas" tvg-id="FRBA3300022OA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300022OA_20221026T004316SQUARE.png_20221026004316.png" tvg-chno="4166" group-title="Séries TV", Televisa TeleNovelas
+https://i.mjh.nz/SamsungTVPlus/FRBA3300022OA.m3u8
+
+#EXTINF:-1 tvg-name="Les filles d'à côté" tvg-id="FRBC47000054S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC47000054S_20230510T043943SQUARE.png_20230510043944.png" tvg-chno="4167" group-title="Séries TV", Les filles d'à côté
+https://i.mjh.nz/SamsungTVPlus/FRBC47000054S.m3u8
+
+#EXTINF:-1 tvg-name="Degrassi" tvg-id="FRBD19000115C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000115C_20230926T032310SQUARE.png_20230926032311.png" tvg-chno="4171" group-title="Séries TV", Degrassi
+https://i.mjh.nz/SamsungTVPlus/FRBD19000115C.m3u8
+
+#EXTINF:-1 tvg-name="Stormcast Novelas" tvg-id="FRBA3300031ZC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300031ZC_20220323T080249SQUARE.png_20220323080251.png" tvg-chno="4172" group-title="Séries TV", Stormcast Novelas
+https://i.mjh.nz/SamsungTVPlus/FRBA3300031ZC.m3u8
+
+#EXTINF:-1 tvg-name="Passion Novelas" tvg-id="FRBD15000024B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD15000024B_20230512T023612SQUARE.png_20230512023612.png" tvg-chno="4174" group-title="Séries TV", Passion Novelas
+https://i.mjh.nz/SamsungTVPlus/FRBD15000024B.m3u8
+
+#EXTINF:-1 tvg-name="Génération Sitcoms" tvg-id="FRBC4700001XG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20230809T053911SQUARE.png_20230809053911.png" tvg-chno="4176" group-title="Séries TV", Génération Sitcoms
+https://i.mjh.nz/SamsungTVPlus/FRBC4700001XG.m3u8
+
+#EXTINF:-1 tvg-name="Fréquence Novelas" tvg-id="FRBC800001X0" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC800001X0_20220810T012631SQUARE.png_20220810012632.png" tvg-chno="4178" group-title="Séries TV", Fréquence Novelas
+https://i.mjh.nz/SamsungTVPlus/FRBC800001X0.m3u8
+
+#EXTINF:-1 tvg-name="Tele.Novela" tvg-id="FRBC14000010C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC14000010C_20220511T011743SQUARE.png_20220511011745.png" tvg-chno="4180" group-title="Séries TV", Tele.Novela
+https://i.mjh.nz/SamsungTVPlus/FRBC14000010C.m3u8
+
+#EXTINF:-1 tvg-name="Un Village Français" tvg-id="FRBC39000050N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC39000050N_20230712T021555SQUARE.png_20230712021555.png" tvg-chno="4182" group-title="Séries TV", Un Village Français
+https://i.mjh.nz/SamsungTVPlus/FRBC39000050N.m3u8
+
+#EXTINF:-1 tvg-name="Secret Story" tvg-id="FRBC3300008XK" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3300008XK_20231115T012257SQUARE.png_20231115012258.png" tvg-chno="4204" group-title="Divertissement", Secret Story
+https://i.mjh.nz/SamsungTVPlus/FRBC3300008XK.m3u8
+
+#EXTINF:-1 tvg-name="Enquêtes de Choc" tvg-id="FRBC90000220" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC90000220_20230712T021542SQUARE.png_20230712021542.png" tvg-chno="4207" group-title="Culture et Documentaires", Enquêtes de Choc
+https://i.mjh.nz/SamsungTVPlus/FRBC90000220.m3u8
+
+#EXTINF:-1 tvg-name="Reportages by Spica" tvg-id="FRBD3900004PH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3900004PH_20231101T032839SQUARE.png_20231101032840.png" tvg-chno="4209" group-title="Culture et Documentaires", Reportages by Spica
+https://i.mjh.nz/SamsungTVPlus/FRBD3900004PH.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Polar" tvg-id="FRAJ38000089S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000089S_20221026T004310SQUARE.png_20221026004310.png" tvg-chno="4210" group-title="Culture et Documentaires", Pluto TV Polar
+https://i.mjh.nz/SamsungTVPlus/FRAJ38000089S.m3u8
+
+#EXTINF:-1 tvg-name="BelAir TV" tvg-id="FRBA3300064WS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300064WS_20230614T005615SQUARE.png_20230614005616.png" tvg-chno="4213" group-title="Culture et Documentaires", BelAir TV
+https://i.mjh.nz/SamsungTVPlus/FRBA3300064WS.m3u8
+
+#EXTINF:-1 tvg-name="Les secrets de nos régions" tvg-id="FRBD410000436" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000436_20231115T012249SQUARE.png_20231115012250.png" tvg-chno="4214" group-title="Culture et Documentaires", Les secrets de nos régions
+https://i.mjh.nz/SamsungTVPlus/FRBD410000436.m3u8
+
+#EXTINF:-1 tvg-name="L'effet papillon" tvg-id="FRBD11000038N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD11000038N_20231011T084907SQUARE.png_20231011084907.png" tvg-chno="4217" group-title="Culture et Documentaires", L'effet papillon
+https://i.mjh.nz/SamsungTVPlus/FRBD11000038N.m3u8
+
+#EXTINF:-1 tvg-name="Les 30 histoires" tvg-id="FRBC4700004ZN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700004ZN_20231213T103952SQUARE.png_20231213103953.png" tvg-chno="4219" group-title="Culture et Documentaires", Les 30 histoires
+https://i.mjh.nz/SamsungTVPlus/FRBC4700004ZN.m3u8
+
+#EXTINF:-1 tvg-name="Homicide" tvg-id="FRBB49000033R" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000033R_20230426T015603SQUARE.png_20230426015603.png" tvg-chno="4221" group-title="Culture et Documentaires", Homicide
+https://i.mjh.nz/SamsungTVPlus/FRBB49000033R.m3u8
+
+#EXTINF:-1 tvg-name="Scènes de Crime" tvg-id="FRBD39000039D" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD39000039D_20231101T032841SQUARE.png_20231101032842.png" tvg-chno="4222" group-title="Culture et Documentaires", Scènes de Crime
+https://i.mjh.nz/SamsungTVPlus/FRBD39000039D.m3u8
+
+#EXTINF:-1 tvg-name="Love Crime & History" tvg-id="FRBD43000016D" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD43000016D_20231213T033044SQUARE.png_20231213033045.png" tvg-chno="4224" group-title="Culture et Documentaires", Love Crime & History
+https://i.mjh.nz/SamsungTVPlus/FRBD43000016D.m3u8
+
+#EXTINF:-1 tvg-name="Documentaires - Rakuten TV" tvg-id="FRAJ4500026AB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500026AB_20221214T045045SQUARE.png_20221214045046.png" tvg-chno="4229" group-title="Culture et Documentaires", Documentaires - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRAJ4500026AB.m3u8
+
+#EXTINF:-1 tvg-name="Love the Planet" tvg-id="FRBC3900004DS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3900004DS_20230426T015606SQUARE.png_20230426015607.png" tvg-chno="4239" group-title="Culture et Documentaires", Love the Planet
+https://i.mjh.nz/SamsungTVPlus/FRBC3900004DS.m3u8
+
+#EXTINF:-1 tvg-name="Nature Time" tvg-id="FRBB4900002D4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4900002D4_20220810T012634SQUARE.png_20220810012634.png" tvg-chno="4255" group-title="Nature", Nature Time
+https://i.mjh.nz/SamsungTVPlus/FRBB4900002D4.m3u8
+
+#EXTINF:-1 tvg-name="BFM Business" tvg-id="FRBD4100006OC" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100006OC_20231213T033036SQUARE.png_20231213033037.png" tvg-chno="4305" group-title="Actualités", BFM Business
+https://i.mjh.nz/SamsungTVPlus/FRBD4100006OC.m3u8
+
+#EXTINF:-1 tvg-name="Tech & Co" tvg-id="FRBD4100010ZZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100010ZZ_20231213T033051SQUARE.png_20231213033051.png" tvg-chno="4306" group-title="Actualités", Tech & Co
+https://i.mjh.nz/SamsungTVPlus/FRBD4100010ZZ.m3u8
+
+#EXTINF:-1 tvg-name="Le Figaro Live" tvg-id="FRBC1400002JN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC1400002JN_20221109T010511SQUARE.png_20221109010511.png" tvg-chno="4316" group-title="Actualités", Le Figaro Live
+https://i.mjh.nz/SamsungTVPlus/FRBC1400002JN.m3u8
+
+#EXTINF:-1 tvg-name="CNN FAST" tvg-id="FRBD190001055" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD190001055_20230614T005619SQUARE.png_20230614005620.png" tvg-chno="4318" group-title="Actualités", CNN FAST
+https://i.mjh.nz/SamsungTVPlus/FRBD190001055.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-id="FRBA3300032DN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300032DN_20221026T004320SQUARE.png_20221026004321.png" tvg-chno="4320" group-title="Actualités", Bloomberg TV+
+https://i.mjh.nz/SamsungTVPlus/FRBA3300032DN.m3u8
+
+#EXTINF:-1 tvg-name="Reuters" tvg-id="FRBA3300024L2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300024L2_20220323T080217SQUARE.png_20220323080220.png" tvg-chno="4332" group-title="Actualités", Reuters
+https://i.mjh.nz/SamsungTVPlus/FRBA3300024L2.m3u8
+
+#EXTINF:-1 tvg-name="Top Santé" tvg-id="FRBD26000031Q" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD26000031Q_20230809T053918SQUARE.png_20230809053918.png" tvg-chno="4402" group-title="Lifestyle", Top Santé
+https://i.mjh.nz/SamsungTVPlus/FRBD26000031Q.m3u8
+
+#EXTINF:-1 tvg-name="Tahiti TV" tvg-id="FRBB49000059E" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB49000059E_20230614T005617SQUARE.png_20230614005618.png" tvg-chno="4403" group-title="Lifestyle", Tahiti TV
+https://i.mjh.nz/SamsungTVPlus/FRBB49000059E.m3u8
+
+#EXTINF:-1 tvg-name="The Boat Show" tvg-id="FRBA1500005IU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1500005IU_20220323T080315SQUARE.png_20220323080317.png" tvg-chno="4405" group-title="Lifestyle", The Boat Show
+https://i.mjh.nz/SamsungTVPlus/FRBA1500005IU.m3u8
+
+#EXTINF:-1 tvg-name="Echappées belles & co" tvg-id="FRBC3500002E4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3500002E4_20230614T005623SQUARE.png_20230614005623.png" tvg-chno="4406" group-title="Lifestyle", Echappées belles & co
+https://i.mjh.nz/SamsungTVPlus/FRBC3500002E4.m3u8
+
+#EXTINF:-1 tvg-name="Wellbeing TV" tvg-id="FRBA3300063FP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300063FP_20230614T005614SQUARE.png_20230614005614.png" tvg-chno="4408" group-title="Lifestyle", Wellbeing TV
+https://i.mjh.nz/SamsungTVPlus/FRBA3300063FP.m3u8
+
+#EXTINF:-1 tvg-name="Le Tigre" tvg-id="FRBD800001FJ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD800001FJ_20230308T021651SQUARE.png_20230308021652.png" tvg-chno="4410" group-title="Sport", Le Tigre
+https://i.mjh.nz/SamsungTVPlus/FRBD800001FJ.m3u8
+
+#EXTINF:-1 tvg-name="Maison & Travaux" tvg-id="FRBD2600002CR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2600002CR_20230809T053916SQUARE.png_20230809053917.png" tvg-chno="4412" group-title="Lifestyle", Maison & Travaux
+https://i.mjh.nz/SamsungTVPlus/FRBD2600002CR.m3u8
+
+#EXTINF:-1 tvg-name="Fashion TV" tvg-id="FRAJ4500020YA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500020YA_20220323T075851SQUARE.png_20220323075854.png" tvg-chno="4414" group-title="Lifestyle", Fashion TV
+https://i.mjh.nz/SamsungTVPlus/FRAJ4500020YA.m3u8
+
+#EXTINF:-1 tvg-name="Travelxp" tvg-id="FRBA330002044" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA330002044_20221026T004322SQUARE.png_20221026004322.png" tvg-chno="4417" group-title="Lifestyle", Travelxp
+https://i.mjh.nz/SamsungTVPlus/FRBA330002044.m3u8
+
+#EXTINF:-1 tvg-name="MasterChef" tvg-id="FRBC3300009EA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3300009EA_20231115T012251SQUARE.png_20231115012252.png" tvg-chno="4425" group-title="Gastronomie", MasterChef
+https://i.mjh.nz/SamsungTVPlus/FRBC3300009EA.m3u8
+
+#EXTINF:-1 tvg-name="Chefclub TV" tvg-id="FRBB3900001PZ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB3900001PZ_20220323T080447SQUARE.png_20220323080450.png" tvg-chno="4435" group-title="Gastronomie", Chefclub TV
+https://i.mjh.nz/SamsungTVPlus/FRBB3900001PZ.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Cuisine" tvg-id="FRBA3300044VR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300044VR_20220323T080513SQUARE.png_20220323080516.png" tvg-chno="4441" group-title="Gastronomie", Pluto TV Cuisine
+https://i.mjh.nz/SamsungTVPlus/FRBA3300044VR.m3u8
+
+#EXTINF:-1 tvg-name="Drive TV" tvg-id="FRBD3600001BQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3600001BQ_20231101T032831SQUARE.png_20231101032832.png" tvg-chno="4482" group-title="Sports mécaniques", Drive TV
+https://i.mjh.nz/SamsungTVPlus/FRBD3600001BQ.m3u8
+
+#EXTINF:-1 tvg-name="Motorvision" tvg-id="FRBD3200001DV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD3200001DV_20230913T030717SQUARE.png_20230913030718.png" tvg-chno="4485" group-title="Sports mécaniques", Motorvision
+https://i.mjh.nz/SamsungTVPlus/FRBD3200001DV.m3u8
+
+#EXTINF:-1 tvg-name="Motor Racing" tvg-id="FRBD4100013LN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100013LN_20231115T012253SQUARE.png_20231115012254.png" tvg-chno="4488" group-title="Sports mécaniques", Motor Racing
+https://i.mjh.nz/SamsungTVPlus/FRBD4100013LN.m3u8
+
+#EXTINF:-1 tvg-name="L'Equipe Live 1" tvg-id="FRBC4200004XH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20230414T072304SQUARE.png_20230414072305.png" tvg-chno="4501" group-title="Sport", L'Equipe Live 1
+https://i.mjh.nz/SamsungTVPlus/FRBC4200004XH.m3u8
+
+#EXTINF:-1 tvg-name="L'Equipe Live 2" tvg-id="FRBC4200005X2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20230308T021650SQUARE.png_20230308021650.png" tvg-chno="4502" group-title="Sport", L'Equipe Live 2
+https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
+
+#EXTINF:-1 tvg-name="FIFA+" tvg-id="FRBA3300037Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300037Y7_20230712T021544SQUARE.png_20230712021544.png" tvg-chno="4506" group-title="Sport", FIFA+
+https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
+
+#EXTINF:-1 tvg-name="World Poker Tour" tvg-id="FRBD2900001M3" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2900001M3_20230926T032312SQUARE.png_20230926032313.png" tvg-chno="4513" group-title="Sport", World Poker Tour
+https://i.mjh.nz/SamsungTVPlus/FRBD2900001M3.m3u8
+
+#EXTINF:-1 tvg-name="Tortues Ninja" tvg-id="FRBA3300046W4" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300046W4_20230111T032536SQUARE.png_20230111032537.png" tvg-chno="4607" group-title="Jeunesse", Tortues Ninja
+https://i.mjh.nz/SamsungTVPlus/FRBA3300046W4.m3u8
+
+#EXTINF:-1 tvg-name="SuperToons TV" tvg-id="FRBA3300029ZY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300029ZY_20230809T053902SQUARE.png_20230809053903.png" tvg-chno="4613" group-title="Jeunesse", SuperToons TV
+https://i.mjh.nz/SamsungTVPlus/FRBA3300029ZY.m3u8
+
+#EXTINF:-1 tvg-name="Famille - Rakuten TV" tvg-id="FRBA3300026BR" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300026BR_20240117T032746SQUARE.png_20240117032747.png" tvg-chno="4615" group-title="Jeunesse", Famille - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRBA3300026BR.m3u8
+
+#EXTINF:-1 tvg-name="Caillou" tvg-id="FRBA3300028VI" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300028VI_20220323T075728SQUARE.png_20220323075731.png" tvg-chno="4616" group-title="Jeunesse", Caillou
+https://i.mjh.nz/SamsungTVPlus/FRBA3300028VI.m3u8
+
+#EXTINF:-1 tvg-name="Jellytoon" tvg-id="FRBB4600001MQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600001MQ_20221214T045103SQUARE.png_20221214045104.png" tvg-chno="4619" group-title="Jeunesse", Jellytoon
+https://i.mjh.nz/SamsungTVPlus/FRBB4600001MQ.m3u8
+
+#EXTINF:-1 tvg-name="Xilam TV" tvg-id="FRBA3300018I9" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300018I9_20230510T043929SQUARE.png_20230510043929.png" tvg-chno="4622" group-title="Jeunesse", Xilam TV
+https://i.mjh.nz/SamsungTVPlus/FRBA3300018I9.m3u8
+
+#EXTINF:-1 tvg-name="Les Lapins Crétins: Invasion" tvg-id="FRBD2300002CM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300002CM_20230712T021549SQUARE.png_20230712021550.png" tvg-chno="4623" group-title="Jeunesse", Les Lapins Crétins: Invasion
+https://i.mjh.nz/SamsungTVPlus/FRBD2300002CM.m3u8
+
+#EXTINF:-1 tvg-name="Bob L'eponge" tvg-id="FRAJ3800010QO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800010QO_20220323T075715SQUARE.png_20220323075718.png" tvg-chno="4625" group-title="Jeunesse", Bob L'eponge
+https://i.mjh.nz/SamsungTVPlus/FRAJ3800010QO.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Kids Séries" tvg-id="FRAJ38000035M" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000035M_20221026T004303SQUARE.png_20221026004304.png" tvg-chno="4628" group-title="Jeunesse", Pluto TV Kids Séries
+https://i.mjh.nz/SamsungTVPlus/FRAJ38000035M.m3u8
+
+#EXTINF:-1 tvg-name="iCarly" tvg-id="FRAJ38000061J" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000061J_20221026T004308SQUARE.png_20221026004308.png" tvg-chno="4631" group-title="Jeunesse", iCarly
+https://i.mjh.nz/SamsungTVPlus/FRAJ38000061J.m3u8
+
+#EXTINF:-1 tvg-name="Charlotte aux Fraises" tvg-id="FRBD1900012T7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900012T7_20230913T030706SQUARE.png_20230913030707.png" tvg-chno="4634" group-title="Jeunesse", Charlotte aux Fraises
+https://i.mjh.nz/SamsungTVPlus/FRBD1900012T7.m3u8
+
+#EXTINF:-1 tvg-name="Vevo Hip-Hop & R&B" tvg-id="FRBC2100002JA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100002JA_20230412T042641SQUARE.png_20230412042641.png" tvg-chno="4710" group-title="Musique", Vevo Hip-Hop & R&B
+https://i.mjh.nz/SamsungTVPlus/FRBC2100002JA.m3u8
+
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-id="FRBC2100001YY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC2100001YY_20230412T042642SQUARE.png_20230412042643.png" tvg-chno="4716" group-title="Musique", Vevo Pop
+https://i.mjh.nz/SamsungTVPlus/FRBC2100001YY.m3u8
+
+#EXTINF:-1 tvg-name="Vevo '90s & '00s" tvg-id="FRBD1900013CB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD1900013CB_20230614T005643SQUARE.png_20230614005643.png" tvg-chno="4718" group-title="Musique", Vevo '90s & '00s
+https://i.mjh.nz/SamsungTVPlus/FRBD1900013CB.m3u8
+
+#EXTINF:-1 tvg-name="Qwest TV" tvg-id="FRBA2200001SP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200001SP_20230614T005612SQUARE.png_20230614005613.png" tvg-chno="4719" group-title="Musique", Qwest TV
+https://i.mjh.nz/SamsungTVPlus/FRBA2200001SP.m3u8
+
+#EXTINF:-1 tvg-name="Deluxe Lounge HD" tvg-id="FRBA1500001G6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1500001G6_20231213T033026SQUARE.png_20231213033027.png" tvg-chno="4722" group-title="Musique", Deluxe Lounge HD
+https://i.mjh.nz/SamsungTVPlus/FRBA1500001G6.m3u8
+
+#EXTINF:-1 tvg-name="Clubbing TV" tvg-id="FRBB1900001FA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB1900001FA_20220323T075747SQUARE.png_20220323075750.png" tvg-chno="4731" group-title="Musique", Clubbing TV
+https://i.mjh.nz/SamsungTVPlus/FRBB1900001FA.m3u8
+
+#EXTINF:-1 tvg-name="Émotion" tvg-id="FRBC900001LB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC900001LB_20230208T013112SQUARE.png_20230208013112.png" tvg-chno="4734" group-title="Musique", Émotion
+https://i.mjh.nz/SamsungTVPlus/FRBC900001LB.m3u8
+
+#EXTINF:-1 tvg-name="Vialma" tvg-id="FRBD800002PY" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD800002PY_20230412T042659SQUARE.png_20230412042700.png" tvg-chno="4737" group-title="Musique", Vialma
+https://i.mjh.nz/SamsungTVPlus/FRBD800002PY.m3u8
+
+#EXTINF:-1 tvg-name="Ciné Prime" tvg-id="FRBC3000001GV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3000001GV_20230208T013122SQUARE.png_20230208013123.png" tvg-chno="4954" group-title="Films", Ciné Prime
+https://i.mjh.nz/SamsungTVPlus/FRBC3000001GV.m3u8
+
+#EXTINF:-1 tvg-name="Ciné Western" tvg-id="FRBD19000095S" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD19000095S_20230614T005621SQUARE.png_20230614005622.png" tvg-chno="4956" group-title="Films", Ciné Western
+https://i.mjh.nz/SamsungTVPlus/FRBD19000095S.m3u8
+
+#EXTINF:-1 tvg-name="Emotion'L" tvg-id="FRBB340000115" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB340000115_20220323T075813SQUARE.png_20220323075816.png" tvg-chno="4957" group-title="Films", Emotion'L
+https://i.mjh.nz/SamsungTVPlus/FRBB340000115.m3u8
+
+#EXTINF:-1 tvg-name="MyTime Movie Network" tvg-id="FRBA2200010VN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200010VN_20220323T080047SQUARE.png_20220323080050.png" tvg-chno="4963" group-title="Films", MyTime Movie Network
+https://i.mjh.nz/SamsungTVPlus/FRBA2200010VN.m3u8
+
+#EXTINF:-1 tvg-name="Scream'IN" tvg-id="FRBB4600002K5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600002K5_20220323T080533SQUARE.png_20220323080535.png" tvg-chno="4966" group-title="Films", Scream'IN
+https://i.mjh.nz/SamsungTVPlus/FRBB4600002K5.m3u8
+
+#EXTINF:-1 tvg-name="Wild Side TV" tvg-id="FRBA3300021ME" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300021ME_20220323T080346SQUARE.png_20220323080349.png" tvg-chno="4969" group-title="Films", Wild Side TV
+https://i.mjh.nz/SamsungTVPlus/FRBA3300021ME.m3u8
+
+#EXTINF:-1 tvg-name="Pluto TV Ciné" tvg-id="FRAJ3800002W5" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ3800002W5_20221026T004301SQUARE.png_20221026004302.png" tvg-chno="4975" group-title="Films", Pluto TV Ciné
+https://i.mjh.nz/SamsungTVPlus/FRAJ3800002W5.m3u8
+
+#EXTINF:-1 tvg-name="Family Club" tvg-id="FRBD2300001UQ" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD2300001UQ_20240117T032758SQUARE.png_20240117032759.png" tvg-chno="4979" group-title="Films", Family Club
+https://i.mjh.nz/SamsungTVPlus/FRBD2300001UQ.m3u8
+
+#EXTINF:-1 tvg-name="Ciné Nanar" tvg-id="FRBB39000020C" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB39000020C_20230614T005557SQUARE.png_20230614005557.png" tvg-chno="4981" group-title="Films", Ciné Nanar
+https://i.mjh.nz/SamsungTVPlus/FRBB39000020C.m3u8
+
+#EXTINF:-1 tvg-name="Films Romantiques - Rakuten TV" tvg-id="FRBA33000341O" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000341O_20230208T013127SQUARE.png_20230208013127.png" tvg-chno="4983" group-title="Films", Films Romantiques - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRBA33000341O.m3u8
+
+#EXTINF:-1 tvg-name="UniversCiné" tvg-id="FRBA2200008H8" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA2200008H8_20220323T080327SQUARE.png_20220323080330.png" tvg-chno="4984" group-title="Films", UniversCiné
+https://i.mjh.nz/SamsungTVPlus/FRBA2200008H8.m3u8
+
+#EXTINF:-1 tvg-name="Brefcinema" tvg-id="FRBA1000009KO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1000009KO_20220323T080440SQUARE.png_20220323080443.png" tvg-chno="4990" group-title="Films", Brefcinema
+https://i.mjh.nz/SamsungTVPlus/FRBA1000009KO.m3u8
+
+#EXTINF:-1 tvg-name="Runtime" tvg-id="FRBB50000016B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB50000016B_20221109T010512SQUARE.png_20221109010512.png" tvg-chno="4993" group-title="Films", Runtime
+https://i.mjh.nz/SamsungTVPlus/FRBB50000016B.m3u8
+
+#EXTINF:-1 tvg-name="Top Films - Rakuten TV" tvg-id="FRBA3300033GO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA3300033GO_20221012T021124SQUARE.png_20221012021125.png" tvg-chno="4994" group-title="Films", Top Films - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRBA3300033GO.m3u8
+
+#EXTINF:-1 tvg-name="Films dramatiques - Rakuten TV" tvg-id="FRAJ4500025AN" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500025AN_20221026T004313SQUARE.png_20221026004313.png" tvg-chno="4998" group-title="Films", Films dramatiques - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRAJ4500025AN.m3u8
+
+#EXTINF:-1 tvg-name="Films d'action - Rakuten TV" tvg-id="FRAJ4500023UP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ4500023UP_20220323T075857SQUARE.png_20220323075900.png" tvg-chno="4999" group-title="Films", Films d'action - Rakuten TV
+https://i.mjh.nz/SamsungTVPlus/FRAJ4500023UP.m3u8
+#EXTINF:-1 tvg-id="AntenneReunion.fr" tvg-logo="https://i.imgur.com/EPIMMaB.png" group-title="Undefined",Antenne Réunion (720p) [Not 24/7]
+https://live-antenne-reunion.zeop.tv/live/c3eds/antreunihd/hls_fta/antreunihd.m3u8?location=ZEOP01
+
+#EXTINF:-1 tvg-id="Carac1.ch" tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png" group-title="Entertainment",Carac 1 (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:event/.m3u8
+#EXTINF:-1 tvg-id="Carac2.ch" tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png" group-title="Entertainment",Carac 2 (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8
+#EXTINF:-1 tvg-id="Carac3.ch" tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png" group-title="Entertainment",Carac 3 (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8
+#EXTINF:-1 tvg-id="Carac4.ch" tvg-logo="https://www.bejart.ch/wp-content/uploads//carac-400x304.png" group-title="Entertainment",Carac 4 (1080p)
+https://edge.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8
+
+#EXTINF:-1 tvg-chno=2904 tvg-id="top-free-fr-rakuten-tv" tvg-name="Top Films - Rakuten TV" group-title="films",Top Films - Rakuten TV
+https://322e54f5122c41d4a6f2e2ddb3f5aeb5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_TopFree/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2904&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=e1339794-536b-4784-bbaa-b87ca5faa5dd&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=839
+#EXTINF:-1 tvg-chno=2500 tvg-id="action-fr-rakuten-tv" tvg-name="Films d'Action - Rakuten TV" group-title="films",Films d'Action - Rakuten TV
+https://7381cd722d5148a3b8831bc52daadd29.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_RakutenActionMovies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2500&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=dd8a91b1-b1d5-410d-abae-6200262423d5&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=447
+#EXTINF:-1 tvg-chno=2499 tvg-id="comedy-fr-rakuten-tv" tvg-name="Comédies - Rakuten TV" group-title="films",Comédies - Rakuten TV
+https://d04d632a8c42465faaa77eb00c2fe671.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_RakutenComedyMovies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2499&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=581c0e5c-2a2f-402d-b8f8-6de60fd5cd34&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=448
+#EXTINF:-1 tvg-chno=2502 tvg-id="drama-fr-rakuten-tv" tvg-name="Drames - Rakuten TV" group-title="films",Drames - Rakuten TV
+https://ade91befafaa4268b11065f01769fca2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_RakutenTVShows/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2502&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=c83028b3-87ea-4a16-8444-6fdacf3821e6&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=449
+#EXTINF:-1 tvg-chno=2930 tvg-id="films-francais-rakuten-tv" tvg-name="Films Français - Rakuten TV" group-title="films",Films Français - Rakuten TV
+https://499fde1f527c4ce9af8917b3ee7a217a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_Local/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2930&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=4fa8a591-eb86-469e-ad17-87a2d883e61c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=795
+#EXTINF:-1 tvg-chno=2891 tvg-id="family-fr-rakuten-tv" tvg-name="100% Noël - Rakuten TV" group-title="films",100% Noël - Rakuten TV
+https://2e32cdd12e5e4daabd75d24f1e1d5d70.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_RakutenFamily/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2891&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=83aa3508-44d7-4820-a9d0-9b0c0958c37e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=720
+#EXTINF:-1 tvg-chno=3333 tvg-id="thriller-fr-rakuten-tv" tvg-name="Thrillers - Rakuten TV" group-title="films",Thrillers - Rakuten TV
+https://f2348d0f0f834bd8a50c33ba36bca58f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-fr_RakutenThriller/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3333&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=14f8d5c8-8a0a-4fb4-918f-901c78a26ce8&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=874
+#EXTINF:-1 tvg-chno=3387 tvg-id="romance-fr-rakuten-tv" tvg-name="Films Romantiques - Rakuten TV" group-title="films",Films Romantiques - Rakuten TV
+https://562be037ec484ca7828eeb0b9cf296f2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-fr_RakutenRomance/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3387&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=4150c26e-27bf-4be9-a199-b5f89f3cc8bf&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=889
+#EXTINF:-1 tvg-chno=4546 tvg-id="trailers" tvg-name="Trailers" group-title="films",Trailers
+https://a01cb16df2c946afa72d661622953cad.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4546/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.ifa_type=ppid&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rakutentv_channel=4546&ads.rtv_content_id=4546&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=451ae11a-897c-43ed-89f1-9fa2cb8222d7&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor
+#EXTINF:-1 tvg-chno=3152 tvg-id="mytime-movie-network-french" tvg-name="MyTime Movie Network" group-title="films",MyTime Movie Network
+https://mytimemoviefrance-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-mytimemovienetworkfrance/CDN/master.m3u8?ads_amagi_channel=739&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3152&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=1ff7b027-44ef-48fc-8415-f4cd3fe372e2&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=3745 tvg-id="universcine" tvg-name="Universciné" group-title="films",Universciné
+https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hls_data_rakutenAA-universcine-rakuten/CDN/master.m3u8?ads_amagi_channel=783&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3745&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=b7067778-2c7c-4974-b793-e8b1835e3d96&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=3890 tvg-id="cine-nanar" tvg-name="Ciné Nanar" group-title="films",Ciné Nanar
+https://zylo-cinenanar-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinenanar-rakuten/CDN/master.m3u8?ads_amagi_channel=792&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3890&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=18d19b69-75a5-4f63-bd36-41862a252650&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=3889 tvg-id="emotion-l" tvg-name="Emotion'L" group-title="films",Emotion'L
+https://amg00711-zylo-france-zylo-emotional-rakuten-frukp.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-emotional-rakuten/CDN/master.m3u8?ads_amagi_channel=793&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3889&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=4e5c8ce7-73f9-4add-b9d5-8d1cf3a9b430&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=3892 tvg-id="screamin" tvg-name="ScreamIN" group-title="films",ScreamIN
+https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8?ads_amagi_channel=794&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3892&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=f6339e37-1fb1-4322-98fc-ec3a69d63576&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=4543 tvg-id="brefcinema" tvg-name="Brefcinema" group-title="films",Brefcinema
+https://1eab12975e3645d78a50743f7885c0c8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_Brefcinema/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4543&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=01fcfdcb-ce88-458c-8e21-dbe1e63f8ded&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=981
+#EXTINF:-1 tvg-chno=4664 tvg-id="crime-series-fr-rakuten-tv" tvg-name="Crime - Rakuten TV" group-title="séries",Crime - Rakuten TV
+https://acf61dea175f4582ba7a0452f2074902.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-fr_Crime/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4664&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=ece12d27-9d55-4071-831d-ead24819b770&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1461
+#EXTINF:-1 tvg-chno=5435 tvg-id="alerte-cobra-fr-rakuten-tv" tvg-name="Alerte Cobra - Rakuten TV" group-title="séries",Alerte Cobra - Rakuten TV
+https://a2ffd3bd676e4c628a58e22bd910202f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-fr_AlerteCobra/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5435&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=53867b19-9941-46f8-8bfa-32ffa4a5e116&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1595
+#EXTINF:-1 tvg-chno=1566 tvg-id="filmrise-free-series-fr" tvg-name="FilmRise Séries" group-title="séries",FilmRise Séries
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=fr&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FreeSeriesPopulaire&ads.csid=zeus_fr_freeseriespopulaire_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1566&ads.rakuten_streaming_id=7bd4ba9a-92f7-4c43-b890-2cb8db455707&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883033&ads.xumo_contentId=2069&ads.xumo_contentName=FilmRiseFrench&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2069&ads.xumo_providerName=FilmRiseFrench&ads.xumo_streamId=88883033
+#EXTINF:-1 tvg-chno=5092 tvg-id="frequence-novelas" tvg-name="Fréquence Novelas" group-title="séries",Fréquence Novelas
+https://amg00711-zylo-amg00711c4-rakuten-us-769.playouts.now.amagi.tv/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8?ads_amagi_channel=856&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5092&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=318740cb-ba63-4417-b4c8-e2e5cd454ad8&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=3862 tvg-id="rakuten-viki-new" tvg-name="Rakuten VIKI" group-title="séries",Rakuten VIKI
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3862&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=40b2cf0b-32c7-4ecb-b1a5-c7320b1330dc&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1027
+#EXTINF:-1 tvg-chno=3876 tvg-id="bbc-doctor-who-fr" tvg-name="Doctor Who" group-title="séries",Doctor Who
+https://de2f0844275c4bdb8f9e420eccbaef7d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-fr_DoctorWho/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3876&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=6d786074-c06c-45e9-92cf-b923db1f53d1&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1017
+#EXTINF:-1 tvg-chno=3879 tvg-id="bbc-drama-fr" tvg-name="BBC Drama" group-title="séries",BBC Drama
+https://71633adbb2d84175998fc72210a25e56.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-fr_BBCDrama/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3879&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=4a488fe3-5072-4cc2-8df3-a74c8b53aa0f&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=946
+#EXTINF:-1 tvg-chno=4316 tvg-id="televisa-telenovelas" tvg-name="TELEVISA Telenovela Channel" group-title="séries",TELEVISA Telenovela Channel
+https://5da8648ad154478c8d45cd6a4c3c7784.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_TelevisaTelenovelas/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4316&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=d9961380-d4fa-4c19-be10-4e5865efc7ef&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1317
+#EXTINF:-1 tvg-chno=3677 tvg-id="adn" tvg-name="ADN" group-title="séries",ADN
+https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8?ads_amagi_channel=776&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3677&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=1557861c-6568-48ce-996e-829a6df77c78&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=4387 tvg-id="enquetes-de-choc-fast-media" tvg-name="Enquêtes de Choc" group-title="séries",Enquêtes de Choc
+https://fastmedia-enquetesdechoc-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-fastmedia-enquetesdechoc-rakuten/CDN/playlist.m3u8?ads_amagi_channel=821&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4387&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=6cd86b38-d447-4a81-8546-2eeec123782b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=5437 tvg-id="les-filles-d-a-cote" tvg-name="Les Filles d'a Coté" group-title="séries",Les Filles d'a Coté
+https://daiconnect.com/live/hls/okast/rak-mw10/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=fr&ads_okast_channel_id=mediawan1&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5437&ads_rtv_content_language=fra&ads_streaming_id=e3b6c3c8-d2d7-4759-8c7d-33b946a1ed51&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=5438 tvg-id="generation-sitcoms" tvg-name="Génération Sitcoms" group-title="séries",Génération Sitcoms
+https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=fr&ads_okast_channel_id=mediawan3&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5438&ads_rtv_content_language=fra&ads_streaming_id=fa04c0ff-a280-488c-b909-1e023db1aba4&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=5439 tvg-id="alerte-a-malibu-tv" tvg-name="Alerte à Malibu TV" group-title="séries",Alerte à Malibu TV
+https://daiconnect.com/live/hls/okast/rak-mw20/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=fr&ads_okast_channel_id=mediawan2&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=5439&ads_rtv_content_language=fra&ads_streaming_id=5a5ce348-0dc9-45f0-95da-9bf76da79445&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=5206 tvg-id="yu-gi-oh-fr" tvg-name="Yu-Gi-Oh!" group-title="séries",Yu-Gi-Oh!
+https://9110fe238a514d49a7d2a10a12674184.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_YuGiOh/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5206&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=c8fbc9a1-d5ce-442e-96bc-2dfb6b892303&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1530
+#EXTINF:-1 tvg-chno=1292 tvg-id="filmrise-free-binge-watch-fr" tvg-name="FilmRise Binge Watch" group-title="séries",FilmRise Binge Watch
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=fr&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=FilmRiseFreeBingeWatch&ads.csid=zeus_fr_filmrisefreebingewatch_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1292&ads.rakuten_streaming_id=7106b622-3471-4cf6-8f2c-2a74a799f6cf&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883021&ads.xumo_contentId=2069&ads.xumo_contentName=FilmRiseFrench&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2069&ads.xumo_providerName=FilmRiseFrench&ads.xumo_streamId=88883021
+#EXTINF:-1 tvg-chno=5398 tvg-id="the-pet-collective-new" tvg-name="The Pet Collective" group-title="divertissements",The Pet Collective
+https://81d1c38525014f39a1705b01e04d91c2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_ThePetCollective-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5398&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=06580959-5346-4449-9349-428a807a9abe&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1020
+#EXTINF:-1 tvg-chno=5122 tvg-id="people-are-awesome-new" tvg-name="People Are Awesome" group-title="divertissements",People Are Awesome
+https://965a56fdfe3c40cd9b73c49a0cde620b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_PeopleAreAwesome-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5122&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=b6df9ccf-a149-4d8e-befe-2eba2d720a73&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1161
+#EXTINF:-1 tvg-chno=3189 tvg-id="afv-family" tvg-name="AFV Family" group-title="divertissements",AFV Family
+https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3189&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=5886050e-061d-41fa-bbe6-783749f2b4fb&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=875
+#EXTINF:-1 tvg-chno=3265 tvg-id="just-for-laughs-gags-fr" tvg-name="Gags - Juste pour rire" group-title="divertissements",Gags - Juste pour rire
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-4&ads._fw_content_genre=humor&ads._fw_content_language=fr&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=JustForLaughsGags&ads.csid=zeus_fr_justforlaughsgags_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3265&ads.rakuten_streaming_id=6be23619-d0f0-41c8-a1a3-a5b3115a5a92&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883040&ads.xumo_contentId=2057&ads.xumo_contentName=JustForLaughsGagsFrench&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2057&ads.xumo_providerName=JustForLaughsGagsFrench&ads.xumo_streamId=88883040
+#EXTINF:-1 tvg-chno=1317 tvg-id="revry" tvg-name="Revry" group-title="divertissements",Revry
+https://03e7e5beea1d42fea576037d67f531eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Revry/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=1317&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=536073c1-f5d6-424d-8c32-601faf1c0068&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=706
+#EXTINF:-1 tvg-chno=5553 tvg-id="jukin-fail-army-new" tvg-name="Fail Army" group-title="divertissements",Fail Army
+https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5553&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=9712c3c7-b580-40c2-beaf-e41de7e3f11f&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1160
+#EXTINF:-1 tvg-chno=4383 tvg-id="motus-fast-media" tvg-name="Motus La Chaîne" group-title="divertissements",Motus La Chaîne
+https://fastmedia-motuslachaine-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-fastmedia-motuslachaine-rakuten/CDN/playlist.m3u8?ads_amagi_channel=819&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4383&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=5b44fd71-282d-48df-9a32-7fbb2b6328f6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=4380 tvg-id="la-verite-fast-media" tvg-name="Y A Que La Vérité Qui Compte La Chaîne" group-title="divertissements",Y A Que La Vérité Qui Compte La Chaîne
+https://fastmedia-yaquelaverite-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-fastmedia-yaquelaverite-rakuten/CDN/playlist.m3u8?ads_amagi_channel=820&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4380&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=4fd50106-4758-4fe6-99a2-2426ee766a7b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=4449 tvg-id="homicide-fast-media" tvg-name="Homicide, La chaine du fait divers" group-title="divertissements",Homicide, La chaine du fait divers
+https://fastmedia-homicide-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-fastmedia-homicide-rakuten/CDN/master.m3u8?ads_amagi_channel=827&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4449&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=89c551ed-ed68-4885-a37a-22ff4f842be2&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=5681 tvg-id="filmrise-hot-ones" tvg-name="Hot Ones" group-title="divertissements",Hot Ones
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=uk&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=HotOnes&ads.csid=zeus_uk_filmrisehotones_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=5681&ads.rakuten_streaming_id=aabda48f-a677-4bc2-baf2-9c5ceed6a1c6&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883082&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_streamId=88883082
+#EXTINF:-1 tvg-chno=5060 tvg-id="fifa-plus-fr" tvg-name="FIFA+" group-title="sports",FIFA+
+https://2f3b4e82.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzX0hMUw/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5060&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=69fb6b34-3f03-48d9-acac-3c3e620c3ec7&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1483
+#EXTINF:-1 tvg-chno=4803 tvg-id="fuel-tv-new" tvg-name="Fuel TV" group-title="sports",Fuel TV
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8?ads_amagi_channel=847&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4803&ads_rtv_content_language=eng&ads_rtvid=271860&ads_streaming_id=dfb561d1-83ee-45ac-aefe-662924c8f8ad&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=3724 tvg-id="billiards-tv" tvg-name="World Billiards TV" group-title="sports",World Billiards TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3724&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=87b7f0f8-eb66-4bf5-a37c-ff7ffd66397b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=967
+#EXTINF:-1 tvg-chno=361 tvg-id="hard-knocks-fighting-championship" tvg-name="Hard Knocks Fighting Championship" group-title="sports",Hard Knocks Fighting Championship
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=HardKnocks&ads.csid=zeus_eu_hardknocks_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=361&ads.rakuten_streaming_id=e81ffb44-004b-4dca-b959-2b56a96f1a26&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883037&ads.xumo_contentId=212&ads.xumo_contentName=HardKnocks&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=212&ads.xumo_providerName=HardKnocks&ads.xumo_streamId=88883037
+#EXTINF:-1 tvg-chno=4844 tvg-id="glory-kickboxing" tvg-name="GLORY Kickboxing" group-title="sports",GLORY Kickboxing
+https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4844&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=77e405f8-43e6-4614-9f26-55f3509120c5&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1360
+#EXTINF:-1 tvg-chno=322 tvg-id="world-poker-tour" tvg-name="World Poker Tour" group-title="sports",World Poker Tour
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=Sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=WorldPokerTour&ads.csid=zeus_eu_worldpokertour_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=322&ads.rakuten_streaming_id=04c1796e-5014-48af-8611-9d948a0b666e&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883062&ads.xumo_contentId=252&ads.xumo_contentName=WorldPokerTour&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=252&ads.xumo_providerName=WorldPokerTour&ads.xumo_streamId=88883062
+#EXTINF:-1 tvg-chno=2656 tvg-id="edgesport" tvg-name="EDGEsport" group-title="sports",EDGEsport
+https://edgesports-row-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-edgesports-rakuten/CDN/master.m3u8?ads_amagi_channel=716&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2656&ads_rtv_content_language=eng&ads_rtvid=271860&ads_streaming_id=dd61ed21-8991-4186-b3cd-1487b62479a2&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=3269 tvg-id="usga" tvg-name="USGA" group-title="sports",USGA
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=USGA&ads.csid=zeus_eu_usga_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3269&ads.rakuten_streaming_id=ac6cfe32-0cf8-44d4-93ae-fa7912b7f85b&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883058&ads.xumo_contentId=1829&ads.xumo_contentName=USGA&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1829&ads.xumo_providerName=USGA&ads.xumo_streamId=88883058
+#EXTINF:-1 tvg-chno=3785 tvg-id="motorvision-tv-french" tvg-name="MOTORVISION.TV" group-title="sports",MOTORVISION.TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB2&ads._fw_content_genre=automotive&ads._fw_content_language=fr&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=MotorvisionFrench&ads.csid=zeus_fr_motorvisionfrench_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3785&ads.rakuten_streaming_id=5193c5e8-f2c1-47f3-8df6-dd6ac683e582&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883047&ads.xumo_contentId=2627&ads.xumo_contentName=MotorvisionFrench&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2627&ads.xumo_providerName=MotorvisionFrench&ads.xumo_streamId=88883047
+#EXTINF:-1 tvg-chno=4253 tvg-id="motorracing-french-feed" tvg-name="Motor Racing" group-title="sports",Motor Racing
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7b971242-c5fe-11ec-967f-401ac48a6867/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_classification=0&ads%3Adevice_type=web&ads%3Adevice_year=&ads%3Afunke_channel_id=RAKB0033&ads%3Alanguage=fra&ads%3Amarket=fr&ads%3Aos_language=&ads%3Aplayer_height=&ads%3Aplayer_width=&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4253&ads%3Astreaming_id=14e5a958-8f3c-4a25-b69a-ae3336e562a4&ads%3Atcf=&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=fr&optout=1&uid=&vendor=rakuten
+#EXTINF:-1 tvg-chno=4930 tvg-id="adventure-sports-tv-fr" tvg-name="Adventure Sports TV" group-title="sports",Adventure Sports TV
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=fr&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=AdventureSportsNetworkFR&ads.csid=zeus_fr_adventuresportsnetworkfr_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4930&ads.rakuten_streaming_id=64e129b6-a12f-41da-85e5-4dddddcc2d4c&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883069&ads.xumo_contentId=3895&ads.xumo_contentName=AdventureSportsNetworkFR&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=3895&ads.xumo_providerName=AdventureSportsNetworkFR&ads.xumo_streamId=88883069
+#EXTINF:-1 tvg-chno=5462 tvg-id="mavtv-motorsports-network-new" tvg-name="MAVTV Motorsports Network" group-title="sports",MAVTV Motorsports Network
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8?ads_amagi_channel=872&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5462&ads_rtv_content_language=eng&ads_rtvid=271860&ads_streaming_id=81622704-b830-43b8-87bb-dca1ea03abf6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=3104 tvg-id="gq" tvg-name="GQ" group-title="lifestyle",GQ
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB18-3&ads._fw_content_genre=fashion&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=CondeNastGQ&ads.csid=zeus_uk_condenastgq_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3104&ads.rakuten_streaming_id=cc8df61b-6628-4bf8-adf7-357ef74502c6&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883036&ads.xumo_contentId=27&ads.xumo_contentName=CondeNastGQ&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=27&ads.xumo_providerName=CondeNastGQ&ads.xumo_streamId=88883036
+#EXTINF:-1 tvg-chno=1282 tvg-id="fashion-tv" tvg-name="Fashion TV" group-title="lifestyle",Fashion TV
+https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=1282&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=d0ed64ba-d1b7-4006-aaa9-79021595c53d&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=381
+#EXTINF:-1 tvg-chno=66 tvg-id="the-design-network" tvg-name="The Design Network" group-title="lifestyle",The Design Network
+https://a7f0dfe917e848a0acfebf5be36b5abd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TheDesignNetwork/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=66&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=a84a5560-61a7-4724-a22d-fa3affba470c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=553
+#EXTINF:-1 tvg-chno=5608 tvg-id="travelxp-fr" tvg-name="Travelxp" group-title="lifestyle",Travelxp
+https://8f2e9d0b11c24eafb34c1e151467b631.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-fr_TravelXPFR/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5608&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=2f413b15-065c-45d9-b1f2-a20b8a529292&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1157
+#EXTINF:-1 tvg-chno=3069 tvg-id="vanity-fair" tvg-name="Vanity Fair" group-title="lifestyle",Vanity Fair
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-2&ads._fw_content_genre=popculture&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=CondeNastVanityFair&ads.csid=zeus_eu_condenastvanityfair_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3069&ads.rakuten_streaming_id=d79c43d4-d3ff-4e0a-a54e-9f9e6770895d&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883059&ads.xumo_contentId=36&ads.xumo_contentName=CondeNastVanityFair&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=36&ads.xumo_providerName=CondeNastVanityFair&ads.xumo_streamId=88883059
+#EXTINF:-1 tvg-chno=3034 tvg-id="vogue" tvg-name="Vogue" group-title="lifestyle",Vogue
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB18-3&ads._fw_content_genre=fashion&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=CondeNastVogue&ads.csid=zeus_eu_condenastvogue_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3034&ads.rakuten_streaming_id=022f91ee-e867-45cb-90c9-daee8358e901&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883060&ads.xumo_contentId=37&ads.xumo_contentName=CondeNastVogue&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=37&ads.xumo_providerName=CondeNastVogue&ads.xumo_streamId=88883060
+#EXTINF:-1 tvg-chno=3816 tvg-id="museum-fast-fr" tvg-name="BelAir TV" group-title="lifestyle",BelAir TV
+https://amg01492-secomsasmediart-museumtv-fr-rakuten-5ofja.amagi.tv/hls/amagi_hls_data_rakutenAA-museumtv-fr-rakuten/CDN/master.m3u8?ads_amagi_channel=791&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3816&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=cc9fdf9d-914e-4850-952a-47aae7d7df10&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=3813 tvg-id="myzen-fit-fr" tvg-name="Wellbeing TV" group-title="lifestyle",Wellbeing TV
+https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8?ads_amagi_channel=789&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3813&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=c10a75ee-aead-4d31-8198-abfbeb8e4972&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=292 tvg-id="powernation" tvg-name="Powernation" group-title="lifestyle",Powernation
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB2&ads._fw_content_genre=automotive&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=PowerNation&ads.csid=zeus_eu_powernation_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=292&ads.rakuten_streaming_id=3012df37-23a7-4b9c-95ed-211891abd09e&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883051&ads.xumo_contentId=224&ads.xumo_contentName=PowerNation&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=224&ads.xumo_providerName=PowerNation&ads.xumo_streamId=88883051
+#EXTINF:-1 tvg-chno=4569 tvg-id="echappees-belles" tvg-name="Echappées Belles & Co." group-title="lifestyle",Echappées Belles & Co.
+https://botravail-echappeesbelles-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-botravail-echappeesbelles-rakuten/CDN/master.m3u8?ads_amagi_channel=836&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4569&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=b42eee7e-0b71-444d-ad50-a422f093ac38&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=4116 tvg-id="gusto-tv-new" tvg-name="Gusto TV" group-title="cuisine",Gusto TV
+https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4116&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=db09cd40-52ed-42a5-a86a-853f1e4cdb94&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=858
+#EXTINF:-1 tvg-chno=2486 tvg-id="clubbing-tv" tvg-name="CLUBBING TV" group-title="musique",CLUBBING TV
+https://clubbingtv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-clubbingtv-rakuten/CDN/master.m3u8?ads_amagi_channel=717&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2486&ads_rtv_content_language=eng&ads_rtvid=271860&ads_streaming_id=f3008e85-2322-48b8-96db-8c6b1311dbc6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=2269 tvg-id="qwest-tv" tvg-name="Qwest TV" group-title="musique",Qwest TV
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8?ads_amagi_channel=711&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2269&ads_rtv_content_language=eng&ads_rtvid=271860&ads_streaming_id=efd20fbd-a1e5-4404-8cd2-85cfd4bfd017&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=2189 tvg-id="stingray-greatest-hits" tvg-name="Stingray Greatest Hits" group-title="musique",Stingray Greatest Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayGreatestHits&ads.csid=zeus_eu_stingraygreatesthits_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2189&ads.rakuten_streaming_id=474bac52-87fc-40e0-9d68-1e83d0332c30&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883053&ads.xumo_contentId=1857&ads.xumo_contentName=StingrayGreatestHits&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1857&ads.xumo_providerName=StingrayGreatestHits&ads.xumo_streamId=88883053
+#EXTINF:-1 tvg-chno=2081 tvg-id="stingray-hit-list" tvg-name="Stingray: Hitlist" group-title="musique",Stingray: Hitlist
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayHitlist&ads.csid=zeus_eu_stingrayhitlist_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=2081&ads.rakuten_streaming_id=65fae394-387a-4f12-ac93-9521abb16dd0&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883054&ads.xumo_contentId=1858&ads.xumo_contentName=StingrayHitlist&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=1858&ads.xumo_providerName=StingrayHitlist&ads.xumo_streamId=88883054
+#EXTINF:-1 tvg-chno=4884 tvg-id="stingray-remember-the-80-s" tvg-name="Stingray: Remember the 80’s" group-title="musique",Stingray: Remember the 80’s
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=RememberThe80sUK&ads.csid=zeus_uk_stingrayrememberthe80s_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4884&ads.rakuten_streaming_id=faead2bb-4079-4a8d-99e7-5b2f415cff49&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883071&ads.xumo_contentId=2184&ads.xumo_contentName=StingrayEverything80s&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2184&ads.xumo_providerName=StingrayEverything80s&ads.xumo_streamId=88883071
+#EXTINF:-1 tvg-chno=343 tvg-id="qello-concerts-by-stingray" tvg-name="Qello Concerts by Stingray" group-title="musique",Qello Concerts by Stingray
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=QelloConcertsbyStingray&ads.csid=zeus_eu_qelloconcertsbystingray_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=343&ads.rakuten_streaming_id=01f9d953-9c15-4bf5-a11b-7001b0aef1af&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883052&ads.xumo_contentId=187&ads.xumo_contentName=QelloConcertsByStingray&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=187&ads.xumo_providerName=QelloConcertsByStingray&ads.xumo_streamId=88883052
+#EXTINF:-1 tvg-chno=4225 tvg-id="deluxe-lounge-hd" tvg-name="Deluxe Lounge HD" group-title="musique",Deluxe Lounge HD
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/2299f30c-3582-11ec-9c7c-2cf753b8a203/0/master.m3u8?ads%3Aamznbrmid=&ads%3Aamznregion=&ads%3Aamznslots=&ads%3Aapp_bundle=com.rakuten.tv&ads%3Aapp_version=&ads%3Abrand_name=&ads%3Acontent_classification=0&ads%3Adevice_type=web&ads%3Adevice_year=&ads%3Afunke_channel_id=RAKB0001&ads%3Alanguage=zxx&ads%3Amarket=fr&ads%3Aos_language=&ads%3Aplayer_height=&ads%3Aplayer_width=&ads%3Apod_type=playerpage_midroll&ads%3Artv_content_id=4225&ads%3Astreaming_id=37a1f337-e861-447d-b89b-febaa12a5d57&ads%3Atcf=&ads%3Ativo_devcountry=&ads%3Ativo_devmakedate=&ads%3Ativo_mvpd=&ads%3Ativo_platform=&ads%3Ativo_usid=&ads%3Ativo_uxloc=&ads%3Auser_type=visitor&country=fr&optout=1&uid=&vendor=rakuten
+#EXTINF:-1 tvg-chno=5283 tvg-id="now-70s" tvg-name="NOW 70s" group-title="musique",NOW 70s
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=869&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5283&ads_rtv_content_language=eng&ads_rtvid=271860&ads_streaming_id=c021fcbf-3be9-4aac-b49c-00e2482ea993&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=5319 tvg-id="now-80s" tvg-name="NOW 80s" group-title="musique",NOW 80s
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=871&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5319&ads_rtv_content_language=eng&ads_rtvid=271860&ads_streaming_id=bbb025d6-552d-4b61-bf43-6ccf66308465&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=5353 tvg-id="now-90s" tvg-name="NOW Rock" group-title="musique",NOW Rock
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8?ads_amagi_channel=870&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5353&ads_rtv_content_language=eng&ads_rtvid=271860&ads_streaming_id=341c7483-fec3-40fe-980b-2aefa16ec9e2&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=3620 tvg-id="baby-shark-tv" tvg-name="Baby Shark TV" group-title="jeunesse",Baby Shark TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3620&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=fa6d55c0-c9a9-49c7-91a9-c60de32f8cee&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=696
+#EXTINF:-1 tvg-chno=2413 tvg-id="brat-tv" tvg-name="Brat TV" group-title="jeunesse",Brat TV
+https://brat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-brat-rakuten/CDN/master.m3u8?ads_amagi_channel=710&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=2413&ads_rtv_content_language=eng&ads_rtvid=271860&ads_streaming_id=d8d32ab9-87cd-4787-87bb-b60d5c0155b6&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=3637 tvg-id="wb-teletubbies-en" tvg-name="Teletubbies" group-title="jeunesse",Teletubbies
+https://f9720666997c4b9297eccb74053f4d54.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_Teletubbies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3637&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=b91a7580-cc4a-4c98-b8b2-d5b342470109&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=667
+#EXTINF:-1 tvg-chno=3588 tvg-id="wb-caillou-fr" tvg-name="Caillou" group-title="jeunesse",Caillou
+https://c380a28cc5ae4be7a0538af20011241a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-fr_Caillou/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3588&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=f410f2a4-37fe-484c-98b8-5fc6efb50d45&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=666
+#EXTINF:-1 tvg-chno=1296 tvg-id="stingray-naturescape" tvg-name="Stingray Naturescape" group-title="slow tv",Stingray Naturescape
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=StingrayNaturescape&ads.csid=zeus_eu_stingrayambiance_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=fr&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=1296&ads.rakuten_streaming_id=b7fafeee-25b1-4aee-bb19-cd2f04c72b58&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883056&ads.xumo_contentId=188&ads.xumo_contentName=StingrayAmbiance&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=188&ads.xumo_providerName=StingrayAmbiance&ads.xumo_streamId=88883056
+#EXTINF:-1 tvg-chno=5156 tvg-id="weather-spy-new" tvg-name="Weather Spy" group-title="slow tv",Weather Spy
+https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=5156&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=24ff5739-f4d7-4fdc-a651-f8fa15d048c1&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1143
+#EXTINF:-1 tvg-chno=2501 tvg-id="documentaries-fr-rakuten-tv-2da0b59d-675e-4ed7-9b61-3fb3af147bb3" tvg-name="Documentaires - Rakuten TV" group-title="documentaires",Documentaires - Rakuten TV
+https://7a9d9ef2c8d84c38836457b68c6910d7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_RakutenSpotlight/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2501&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=e8a039f7-b9a5-4ea9-ac3a-4ead4172792e&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=450
+#EXTINF:-1 tvg-chno=5628 tvg-id="l-effet-papillon" tvg-name="L’Effet Papillon" group-title="documentaires",L’Effet Papillon
+https://amg02162-newenconnect-amg02162c1-rakuten-us-1983.playouts.now.amagi.tv/playlist/amg02162-newenconnect-leffetpapillon-rakutenus/playlist.m3u8?ads_amagi_channel=881&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5628&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=93217e97-456d-4689-bef5-74d1387593b5&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=4329 tvg-id="nature-time-fr" tvg-name="Nature Time" group-title="documentaires",Nature Time
+https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-bamusa-natureemea-fra-rakuten/CDN/master.m3u8?ads_amagi_channel=813&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=4329&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=cab7e145-a389-4eb6-ab52-696392307dba&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=5001 tvg-id="cgtn-documentary" tvg-name="CGTN Documentary" group-title="documentaires",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8?ads_amagi_channel=853&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5001&ads_rtv_content_language=eng&ads_rtvid=271860&ads_streaming_id=07d1f3db-bded-4b66-ba12-3923b7eb859c&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=5629 tvg-id="100-docs" tvg-name="100% Docs" group-title="documentaires",100% Docs
+https://amg02162-newenconnect-amg02162c2-rakuten-us-1981.playouts.now.amagi.tv/playlist/amg02162-newenconnect-100pour100docs-rakutenus/playlist.m3u8?ads_amagi_channel=882&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5629&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=0199b003-58a8-447f-b78a-dcab6c3ed166&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=3390 tvg-id="euronews-live-fr" tvg-name="Euronews DIRECT" group-title="informations",Euronews DIRECT
+https://e76a907e0907410a96ff2f561a017220.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_EuroNewsLive/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3390&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=320e4195-85f1-4436-a9dd-8e912c1b9752&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=865
+#EXTINF:-1 tvg-chno=60 tvg-id="reuters" tvg-name="Reuters" group-title="informations",Reuters
+https://bbc982df73cf41ceb5511c0aba6df6c0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ReutersNow/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=60&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=b4135388-c7fa-4b3b-8b98-148979437d74&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=481
+#EXTINF:-1 tvg-chno=5545 tvg-id="cgtn-fr" tvg-name="CGTN" group-title="informations",CGTN
+https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8?ads_amagi_channel=875&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5545&ads_rtv_content_language=fra&ads_rtvid=271860&ads_streaming_id=c52ce347-092c-4c13-a59b-3bc98409120c&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=1306 tvg-id="revry-news" tvg-name="Revry News" group-title="informations",Revry News
+https://dce9e10d279f410d87ef5ad1c3740459.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_RevryNews/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=1306&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=fa2e4d32-0aa5-462f-97a8-72f1f31e0de0&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=616
+#EXTINF:-1 tvg-chno=3947 tvg-id="ticker-news" tvg-name="ticker NEWS" group-title="informations",ticker NEWS
+https://amg01486-tickernews-tickernews-rakuten-u0ffa.amagi.tv/hls/amagi_hls_data_rakutenAA-tickernews-rakuten/CDN/master.m3u8?ads_amagi_channel=795&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=12&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=3947&ads_rtv_content_language=eng&ads_rtvid=271860&ads_streaming_id=627c45e1-42a0-4eb5-b3aa-9d169a9ab023&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=2542 tvg-id="bloomberg-originals" tvg-name="Bloomberg Originals" group-title="informations",Bloomberg Originals
+https://d7ec4f6950ed4c6d946e497bd44db7ef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_QuickTake-1/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2542&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=dfda5379-73d9-4bcf-b0cb-7e7b038fbc24&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=777
+#EXTINF:-1 tvg-chno=4750 tvg-id="bloomberg-tv-new" tvg-name="Bloomberg Television" group-title="informations",Bloomberg Television
+https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=4750&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=0e62ebcb-9bd4-430a-a749-b7167d00dc9b&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1543
+#EXTINF:-1 tvg-chno=3154 tvg-id="africanews-fr" tvg-name="Africanews Français" group-title="informations",Africanews Français
+https://fd455e302ce44beb82997b99d4d215fc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-fr_AfricaNews/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=12&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3154&ads.rtv_content_language=fra&ads.rtvid=271860&ads.streaming_id=5d763ce6-5c93-45bb-ac8e-715c305e1117&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=803
+#EXTINF:-1 tvg-chno=5005 tvg-id="cgtn" tvg-name="CGTN" group-title="informations",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8?ads_amagi_channel=852&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5005&ads_rtv_content_language=eng&ads_rtvid=271860&ads_streaming_id=34639751-12ff-4ec2-b8a7-4f0b0d3ec385&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=5637 tvg-id="newsworld" tvg-name="NewsWorld" group-title="informations",NewsWorld
+https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8?ads_amagi_channel=867&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_env=prod&ads_gdpr_consent=&ads_market=fr&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_ppid=&ads_rtv_content_id=5637&ads_rtv_content_language=eng&ads_rtvid=271860&ads_streaming_id=10c014e7-f253-4e68-8b93-d7502f0c8005&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+#EXTINF:-1 tvg-chno=3984 tvg-id="the-guardian" tvg-name="The Guardian" group-title="informations",The Guardian
+https://d73fb24db4524ddca65ec4935761d3ef.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_TheGuardianChannel/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=fr&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3984&ads.rtv_content_language=eng&ads.rtvid=271860&ads.streaming_id=b007881e-b545-458f-8da3-ab105a3a7665&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1034
+#EXTINF:0 tvg-logo="https://i.ibb.co/9rmSGqP/frsr.png",FRANCE SÉRIES
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frsr.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR
+https://hls-m007.live-lv3.canalplus-cdn.net/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
+https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/NyHqX5R/belrtl.png",BEL RTL
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/belrtl.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/WgNnchd/clubrtl.png",CLUB RTL
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/clubrtl.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/wJ3YJGs/rtlplug.png",PLUG RTL
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/plugrtl.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/h2bSSvv/rtlplay.png",RTL PLAY
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtlplay.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/kKMpCzz/rtltvi.png",RTL TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/directmaster/rtltvi.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/6RYpdNz/m6int.png",M6 INTERNATIONAL
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png",TV5MONDE EUROPE [geo-area]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/g3YTn6c/geneok.png",GÉNÉRATIONS TV
+https://edge.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/BPzb19X/melody.png",MÉLODY
+https://live.creacast.com/telemelody/smil:telemelody-211112.smil/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png",CLUBBING TV
+https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/M5P1TMG/clubbing.png",CLUBBING TV
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png",TRACE URBAN
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png",TRACE URBAN
+https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/2hgmDs6/traceurb.png",TRACE URBAN
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/sWxH6cv/tracesports.png",TRACE SPORTS
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/p1stMyz/sportenfr.webp",SPORT EN FRANCE
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 1
+https://d3awaj0f2u3w26.cloudfront.net/11/media.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE LIVE 2
+https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/435d04a5-ab47-47c5-a2c1-bae01ae6d0c1/2.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png",L'ÉQUIPE TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/equipe.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/6t2ztJT/dlxmsc.png",🎁DELUXE MUSIC⭐ English 🤩❤️👍
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/jZWbT2g/dlxfbk.png",🎁DELUXE MUSIC⭐ Flash Back 🤩❤️👍
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/2ks2Ys7/dlxdnc.png",🎁DELUXE MUSIC⭐ Dance 🤩❤️👍
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/WBKwntS/dlxrap.png",🎁DELUXE MUSIC⭐ Rap 🤩❤️👍
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/mDFLYx3/dlxrck.png",🎁DELUXE MUSIC⭐ Rock 🤩❤️👍
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/TmL52ct/dlxde.png",🎁DELUXE MUSIC⭐ Deutsch Schlager 🤩❤️👍
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/6RvHVvn/dlxdtschpp.png",🎁DELUXE MUSIC⭐ Deutsch Pop 🤩❤️👍
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
+#EXTINF:0 tvg-logo="https://i.ibb.co/1KhQxpd/dlxwnt.png",🎁DELUXE MUSIC⭐ Winter Time 🤩❤️👍
+https://d2l1hs6hxlg3df.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pb0nloqsgtwc2/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/RpfpWkr/dlxlng.png",🎁DELUXE MUSIC⭐ Lounge 🤩❤️👍
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2664
+#EXTINF:0 tvg-logo="https://i.ibb.co/RpfpWkr/dlxlng.png",🎁DELUXE MUSIC⭐ Lounge 🤩❤️👍
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2489
+#EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",🎁DELUXE MUSIC⭐ Lounge Extra 🤩❤️👍
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
+#EXTINF:0 tvg-logo="https://i.ibb.co/pKt53kX/dl1.png",🎁DELUXE MUSIC⭐ Lounge Extra 🤩❤️👍
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
+#EXTINF:-1 channel-id="pluto-5f32f26bcd8aea00071240e5" tvg-id="5f32f26bcd8aea00071240e5" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" tvg-chno="3370" group-title="USA" , Vevo '70s
+https://r.mjh.nz/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5fd7b8bf927e090007685853" tvg-id="5fd7b8bf927e090007685853" tvg-logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" tvg-chno="3380" group-title="USA" , Vevo '80s
+https://r.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5fd7bb1f86d94a000796e2c2" tvg-id="5fd7bb1f86d94a000796e2c2" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" tvg-chno="3390" group-title="USA" , Vevo '90s
+https://r.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5fd7bca3e0a4ee0007a38e8c" tvg-id="5fd7bca3e0a4ee0007a38e8c" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" tvg-chno="3400" group-title="USA" , Vevo 2K
+https://r.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f68f53eb1e5800007390bf8" tvg-id="5f68f53eb1e5800007390bf8" tvg-logo="https://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" tvg-chno="3410" group-title="USA" , CMT Equal Play
+https://r.mjh.nz/PlutoTV/5f68f53eb1e5800007390bf8-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-623b92a2ccefed0007b1db48" tvg-id="623b92a2ccefed0007b1db48" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" tvg-chno="3420" group-title="USA" , XITE Classic Country
+https://r.mjh.nz/PlutoTV/623b92a2ccefed0007b1db48-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5da0d75e84830900098a1ea0" tvg-id="5da0d75e84830900098a1ea0" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" tvg-chno="3430" group-title="USA" , Vevo Country
+https://r.mjh.nz/PlutoTV/5da0d75e84830900098a1ea0-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5d14fc31252d35decbc4080b" tvg-id="5d14fc31252d35decbc4080b" tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" tvg-chno="3440" group-title="USA" , Yo! MTV
+https://r.mjh.nz/PlutoTV/5d14fc31252d35decbc4080b-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-61d4c2817a823d00070ba53e" tvg-id="61d4c2817a823d00070ba53e" tvg-logo="https://images.pluto.tv/channels/61d4c2817a823d00070ba53e/colorLogoPNG.png" tvg-chno="3450" group-title="USA" , Vevo True School Hip-Hop
+https://r.mjh.nz/PlutoTV/61d4c2817a823d00070ba53e-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5da0d83f66c9700009b96d0e" tvg-id="5da0d83f66c9700009b96d0e" tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" tvg-chno="3460" group-title="USA" , Vevo R&B
+https://r.mjh.nz/PlutoTV/5da0d83f66c9700009b96d0e-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-61d4b38226b8a50007fe03a6" tvg-id="61d4b38226b8a50007fe03a6" tvg-logo="https://images.pluto.tv/channels/61d4b38226b8a50007fe03a6/colorLogoPNG.png" tvg-chno="3470" group-title="USA" , Vevo Retro Rock
+https://r.mjh.nz/PlutoTV/61d4b38226b8a50007fe03a6-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-623a1b5188ecdc0007c9ef5a" tvg-id="623a1b5188ecdc0007c9ef5a" tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" tvg-chno="3480" group-title="USA" , XITE Rock
+https://r.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5d93b635b43dd1a399b39eee" tvg-id="5d93b635b43dd1a399b39eee" tvg-logo="https://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" tvg-chno="3490" group-title="USA" , Vevo Pop
+https://r.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5d14fdb8ca91eedee1633117" tvg-id="5d14fdb8ca91eedee1633117" tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" tvg-chno="3500" group-title="USA" , MTV Spankin' New
+https://r.mjh.nz/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5d14fd1a252d35decbc4080c" tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/5d14fd1a252d35decbc4080c/colorLogoPNG.png" tvg-chno="3510" group-title="USA" , MTV Biggest Pop
+https://r.mjh.nz/PlutoTV/5d14fd1a252d35decbc4080c-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5d3609cd6a6c78d7672f2a81" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" tvg-chno="3520" group-title="USA" , MTV Flow Latino
+https://r.mjh.nz/PlutoTV/5d3609cd6a6c78d7672f2a81-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-623b93628e6ded0007337d4d" tvg-id="623b93628e6ded0007337d4d" tvg-logo="https://images.pluto.tv/channels/623b93628e6ded0007337d4d/colorLogoPNG.png" tvg-chno="3530" group-title="USA" , XITE Gospel
+https://r.mjh.nz/PlutoTV/623b93628e6ded0007337d4d-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f779951372da90007fd45e8" tvg-id="5f779951372da90007fd45e8" tvg-logo="https://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" tvg-chno="3540" group-title="USA" , Classica
+https://r.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5da0d64d0e8a62000964ebe4" tvg-id="5da0d64d0e8a62000964ebe4" tvg-logo="https://images.pluto.tv/channels/5da0d64d0e8a62000964ebe4/colorLogoPNG.png" tvg-chno="3570" group-title="USA" , Vevo Latino
+https://r.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f32f397795b750007706448" tvg-id="5f32f397795b750007706448" tvg-logo="https://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" tvg-chno="3580" group-title="USA" , Vevo Reggaeton & Trap
+https://r.mjh.nz/PlutoTV/5f32f397795b750007706448-alt.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20231031T225103SQUARE.png_20231031225104.png" tvg-chno="1537" group-title="United States" , NEW KPOP
+https://i.mjh.nz/SamsungTVPlus/USAJ3000013FJ.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3500016NH" tvg-id="USBD3500016NH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20231024T231840SQUARE.png_20231024231841.png" tvg-chno="1538" group-title="United States" , Stingray Today's K-Pop
+https://i.mjh.nz/SamsungTVPlus/USBD3500016NH.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3500025GS" tvg-id="USBD3500025GS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20231024T231759SQUARE.png_20231024231801.png" tvg-chno="1539" group-title="United States" , Stingray DJAZZ
+https://i.mjh.nz/SamsungTVPlus/USBD3500025GS.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3500024YB" tvg-id="USBD3500024YB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500024YB_20231024T231727SQUARE.png_20231024231728.png" tvg-chno="1540" group-title="United States" , Qello Concerts by Stingray
+https://i.mjh.nz/SamsungTVPlus/USBD3500024YB.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD35000128A" tvg-id="USBD35000128A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20231024T231824SQUARE.png_20231024231825.png" tvg-chno="1541" group-title="United States" , Stingray Smooth Jazz
+https://i.mjh.nz/SamsungTVPlus/USBD35000128A.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD350002623" tvg-id="USBD350002623" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002623_20231024T231756SQUARE.png_20231024231757.png" tvg-chno="1542" group-title="United States" , Stingray Classica
+https://i.mjh.nz/SamsungTVPlus/USBD350002623.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3500009Y3" tvg-id="USBD3500009Y3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20231024T231843SQUARE.png_20231024231844.png" tvg-chno="1543" group-title="United States" , Stingray Today's Latin Pop
+https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3500017CE" tvg-id="USBD3500017CE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20231024T231821SQUARE.png_20231024231822.png" tvg-chno="1544" group-title="United States" , Stingray Romance Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3500017CE.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3500011J3" tvg-id="USBD3500011J3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20231024T231803SQUARE.png_20231024231804.png" tvg-chno="1545" group-title="United States" , Stingray Easy Listening
+https://i.mjh.nz/SamsungTVPlus/USBD3500011J3.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3500008IJ" tvg-id="USBD3500008IJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20231024T231806SQUARE.png_20231024231807.png" tvg-chno="1546" group-title="United States" , Stingray Flashback 70s
+https://i.mjh.nz/SamsungTVPlus/USBD3500008IJ.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3300022QK" tvg-id="USBD3300022QK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300022QK_20231024T231818SQUARE.png_20231024231819.png" tvg-chno="1547" group-title="United States" , Stingray Remember the 80s
+https://i.mjh.nz/SamsungTVPlus/USBD3300022QK.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD35000149S" tvg-id="USBD35000149S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20231024T231815SQUARE.png_20231024231816.png" tvg-chno="1548" group-title="United States" , Stingray Nothin' But 90s
+https://i.mjh.nz/SamsungTVPlus/USBD35000149S.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD35000180U" tvg-id="USBD35000180U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20231024T231753SQUARE.png_20231024231754.png" tvg-chno="1549" group-title="United States" , Stingray Classic Rock
+https://i.mjh.nz/SamsungTVPlus/USBD35000180U.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3500010MT" tvg-id="USBD3500010MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20231114T233507SQUARE.png_20231114233508.png" tvg-chno="1550" group-title="United States" , Stingray Hip Hop
+https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3300021KV" tvg-id="USBD3300021KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20231229T003153SQUARE.png_20231229003153.png" tvg-chno="1551" group-title="United States" , Stingray Hot Country
+https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
+
+#EXTINF:-1 channel-id="samsung-USBD3500022DN" tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20231229T003151SQUARE.png_20231229003151.png" tvg-chno="1552" group-title="United States" , Stingray Greatest Hits
+https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
