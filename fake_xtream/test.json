@@ -1,0 +1,26 @@
+{
+  "user_info": {
+    "username": "test",
+    "password": "test",
+    "message": "",
+    "auth": 1,
+    "status": "Active",
+    "exp_date": "1728379937",
+    "is_trial": "0",
+    "active_cons": "124",
+    "created_at": "1696748837",
+    "max_connections": "0",
+    "allowed_output_formats": [
+      "m3u8"
+    ]
+  },
+  "server_info": {
+    "url": "rickeymandraque.github.io",
+    "port": "443",
+    "https_port": "443",
+    "server_protocol": "https",
+    "timezone": "Europe/Paris",
+    "timestamp_now": 1706083377,
+    "time_now": "2024-01-24 08:02:57"
+  }
+}
