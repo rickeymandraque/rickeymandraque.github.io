@@ -3,5 +3,5 @@ RewriteEngine On
 # Redirige les requêtes vers les fichiers .php vers les fichiers statiques en fonction des paramètres
 RewriteRule ^player_api.php$ ./fake_xtream/test.json [L,QSA,E=USER_TYPE:Test,E=PASSWORD:Test]
 # Redirige toto.html vers index.html
-RewriteRule ^toto\.html$ /index.html [L,QSA]
+RewriteRule ^toto\.html$ /index.html [L,R=301]
 # Ajoutez des règles similaires pour d'autres types d'utilisateurs si nécessaire
